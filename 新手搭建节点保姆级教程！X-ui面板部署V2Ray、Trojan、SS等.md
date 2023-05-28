@@ -18,7 +18,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat
 
 
-### 2、安装x-ui
+### 2、安装x-ui（感谢github vaxilu大佬开发如此好用的一键脚本）
 <pre><code>bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)</pre></code>
 
 ### 3、证书申请（开TLS提升安全性必备）
