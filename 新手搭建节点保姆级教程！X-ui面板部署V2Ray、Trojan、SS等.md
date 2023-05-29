@@ -32,6 +32,9 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
 
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
+更改证书存放位置
+<pre><code>~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt</pre></code>
+
 
 # 全平台客户端下载
 [V2Ray官网对于全平台客户端的总结和一览](https://www.v2ray.com/awesome/tools.html)<br />
