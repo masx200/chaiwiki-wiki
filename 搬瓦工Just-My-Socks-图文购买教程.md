@@ -16,9 +16,9 @@ Just My Socks目前提供5条线路（5个IP），包括搬瓦工CN2 GIA线路�
 
 打开JMS官网：
 
-Just My Socks 官网：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&dig=1)(已被墙)
+Just My Socks 官网：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&gid=1)(已被墙)
 
-Just My Socks 官网备用：[https://justmysocks2.net](https://justmysocks2.net/members/aff.php?aff=27005&dig=1)
+Just My Socks 官网备用：[https://justmysocks2.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
 
 **进入官网后，右上角选择语言为中文**
 
