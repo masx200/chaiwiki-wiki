@@ -23,7 +23,8 @@ Just My Socks 官网备用：[https://justmysocks5.net](https://justmysocks2.net
 
 ![更改为中文](https://i.imgur.com/dhtQKdH.png)
 
-## 以下是JMS各个套餐简单介绍（选择自己需要的套餐，点Order Now即可下单）：
+# JMS套餐分类
+以下是JMS各个套餐简单介绍（选择自己需要的套餐，点Order Now即可下单）：
 ![套餐介绍](https://i.imgur.com/bCtPxYm.png)
 Just My Socks 100：100G流量/月/5台设备在线
 
