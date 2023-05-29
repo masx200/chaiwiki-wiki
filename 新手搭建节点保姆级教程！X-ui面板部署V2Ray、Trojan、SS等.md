@@ -3,7 +3,7 @@
 
 
 # VPS服务器购买
-自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，个人也自用多年，非常稳定，不用担心跑路。
+自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不用担心跑路。
 <table role="table">
 <thead>
 <tr>
