@@ -96,8 +96,6 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
 “你的域名”改成你前面解析好的域名
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
-更改证书存放位置
-<pre><code>~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt</pre></code>
 
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
