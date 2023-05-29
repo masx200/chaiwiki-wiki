@@ -17,7 +17,7 @@ Just My Socks目前提供多条线路，涵盖洛杉矶、香港、东京等机�
 
 Just My Socks 官网：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&gid=1)(已被墙，需挂代理)
 
-Just My Socks 官网备用：[https://justmysocks2.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
+Just My Socks 官网备用：[https://justmysocks5.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
 
 **进入官网后，右上角选择语言为中文**
 
