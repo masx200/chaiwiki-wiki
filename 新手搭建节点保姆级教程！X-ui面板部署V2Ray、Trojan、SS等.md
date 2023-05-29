@@ -40,7 +40,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt</pre></code>
 
 
-# 全平台客户端下载
+# 客户端下载
 [V2Ray官网对于全平台客户端的总结和一览](https://www.v2ray.com/awesome/tools.html)<br />
 
 Windows：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
