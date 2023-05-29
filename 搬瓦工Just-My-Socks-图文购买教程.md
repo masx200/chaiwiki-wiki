@@ -1,10 +1,9 @@
-### **请在合理合规下使用科学上网哦~**
-### **本教程中，你会学到，JMS如何购买以及各个平台如何使用（Windwos+安卓+苹果手机+苹果电脑），不用担心学不会，小白也能轻松学会，跟着教程来就可以了！**
+### **本教程中，你会学到，搬瓦工官方机场JMS如何购买，以及各个平台如何使用（Windwos+安卓+苹果手机+苹果电脑），不用担心学不会，小白也能轻松学会，跟着教程来就可以了！**
 
 # Just My Socks 是什么
 JMS是搬瓦工自家的机场，没错，就是那个卖VPS很火的搬瓦工！
 
-Just My Socks目前提供5条线路（5个IP），包括搬瓦工CN2 GIA线路，并且保证IP可用，当IP被墙后，Just My Socks会后台自动换成可用IP，你只管使用节点，而无需担心被墙问题。
+Just My Socks目前提供多条线路，涵盖洛杉矶、香港、东京等机房线路，包括搬瓦工CN2 GIA线路，并且保证IP可用，当IP被墙后，Just My Socks会后台自动换成可用IP，你只管使用节点，而无需担心被墙问题。
 
 ## 最重要的：JMS有口碑，速度好，不用担心跑路，可以稳定长期使用！
 
@@ -16,7 +15,7 @@ Just My Socks目前提供5条线路（5个IP），包括搬瓦工CN2 GIA线路�
 
 打开JMS官网：
 
-Just My Socks 官网：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&gid=1)(已被墙)
+Just My Socks 官网：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&gid=1)(已被墙，需挂代理)
 
 Just My Socks 官网备用：[https://justmysocks2.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
 
