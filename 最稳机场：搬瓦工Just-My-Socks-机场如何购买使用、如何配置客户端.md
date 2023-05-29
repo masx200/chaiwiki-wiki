@@ -70,12 +70,12 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 
 ![下载客户端](https://i.imgur.com/Im7iyJT.png)
 
-## Windows客户端使用方法：
+## Windows客户端使用方法
 
 在客户端下载页面下载Windows平台客户端后，安装，右键以管理员身份打开软件，在桌面右下找到小飞机图标，同时打开浏览器，拖动浏览器找到节点信息的二维码页面，右键小飞机，找到『扫描屏幕上的二维码』，即可自动导入节点，也可以手动输入，然后选服务器，再选择PAC模式，即可开启上网之路！
 ![Win'do'ws](https://i.imgur.com/BPQYhPG.png)
 
-## 安卓客户端使用方法：
+## 安卓客户端使用方法
 详细可参考此网页：[安卓SS客户端使用图文教程](http://16bing.com/2017/02/19/android-shadowsocks/)
 
 
@@ -85,13 +85,13 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 导入后，点一下导入的节点选中，点右下的小飞机图标，变成绿色就是开启了，可以正常上网了！
 ![连接](https://i.imgur.com/u7sX6MC.png)
 
-## 苹果手机客户端使用方法：
+## 苹果手机客户端使用方法
 首先苹果应用商店使用除国区外的账号登录，搜索Potatso Lite，免费的，安装！
 ![IOS](https://i.imgur.com/rX4Sv1z.png)
 最后，导入后点击连接即可上网了。
 ![连接](https://i.imgur.com/ub2nOlA.png)
 
-## 苹果电脑Mac OS客户端使用方法：
+## 苹果Mac客户端使用方法
 在上面的软件下载那，下载苹果版客户端，解压后打开，会提示输入开机密码，打开浏览器显示节点配置的二维码，按下图导入使用：
 
 ![MAC](https://i.imgur.com/sKulthH.png)
