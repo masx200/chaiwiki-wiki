@@ -49,16 +49,6 @@
 <td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=87" rel="nofollow">购买</a></td>
 </tr>
 <tr>
-<td align="center">迪拜</td>
-<td align="center">2 核</td>
-<td align="center">1 GB</td>
-<td align="center">20 GB</td>
-<td align="center">1 G</td>
-<td align="center">500GB / 月</td>
-<td align="center">$19.99 / 月</td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=114" rel="nofollow">购买</a></td>
-</tr>
-<tr>
 <td align="center">香港</td>
 <td align="center">2 核</td>
 <td align="center">2048 MB</td>
