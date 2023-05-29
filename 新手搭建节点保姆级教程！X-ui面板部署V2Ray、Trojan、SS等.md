@@ -80,7 +80,8 @@
 可使用Goday：[官网](https://www.godaddy.com/)或namesilo等域名注册商购买域名，推荐使用namesilo，免费的whois隐私保护！<br />
 NameSilo官网：[namesilo官网](https://www.namesilo.com/)
 
-# SSH连接工具（任选一个）
+# SSH连接工具
+任选其中即可<br />
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
