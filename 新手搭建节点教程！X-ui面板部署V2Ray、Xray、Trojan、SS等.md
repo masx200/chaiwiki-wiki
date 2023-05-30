@@ -70,7 +70,7 @@
 
 # 域名购买、解析
 可使用Goday：[官网](https://www.godaddy.com/)或namesilo等域名注册商购买域名，推荐使用namesilo，免费的whois隐私保护！<br />
-NameSilo官网：[namesilo官网](https://www.namesilo.com/)
+NameSilo官网：[namesilo官网](https://www.namesilo.com/)<br />
 namesilo优惠码：**idcspy2020**
 
 # SSH连接工具
