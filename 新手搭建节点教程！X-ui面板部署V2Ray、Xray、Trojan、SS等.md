@@ -9,7 +9,7 @@
 <tr>
 <th align="center">线路名称</th>
 <th align="center">处理器</th>
-<th align="center">内存</th>
+<th align="center">内存大小</th>
 <th align="center">硬盘容量</th>
 <th align="center">带宽</th>
 <th align="center">流量</th>
