@@ -21,7 +21,8 @@ Just My Socks 官网备用：[https://justmysocks5.net](https://justmysocks2.net
 
 **进入官网后，右上角选择语言为中文**
 
-![更改为中文](https://i.imgur.com/dhtQKdH.png)
+<img width="1398" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/6c5a846c-d8ad-4e0d-94f8-6c8146666e7a">
+
 
 # JMS套餐分类
 以下是JMS各个套餐简单介绍（选择自己需要的套餐，点Order Now即可下单）：
