@@ -26,7 +26,8 @@ Just My Socks 官网备用：[https://justmysocks5.net](https://justmysocks2.net
 
 # JMS套餐分类
 以下是JMS各个套餐简单介绍（选择自己需要的套餐，点Order Now即可下单）：
-![套餐介绍](https://i.imgur.com/bCtPxYm.png)
+<img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/5e9a8140-3308-4f78-86bc-32d6794a6481">
+
 Just My Socks 100：100G流量/月/5台设备在线
 
 Just My Socks 500：500G流量/月/无限制设备在线
@@ -35,7 +36,7 @@ Just My Socks 1000：1000G流量/月/无限制设备在线
 
 Just My Socks Tokyo：100G流量/月/3台设备在线
 
-东京优质线路，顶级线路，壕专属！
+香港优质线路，顶级线路，壕专属！
 
 选择自己需要的套餐，点击Order Now进入下单：
 ![账单周期](https://i.imgur.com/j3WKGTx.png)
