@@ -3,7 +3,7 @@
 
 
 # VPS服务器购买
-自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不用担心跑路。
+自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。
 <table role="table">
 <thead>
 <tr>
@@ -114,3 +114,6 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 
 # 结尾
 一请合理使用科学上网
+搬瓦工30天内新账户支持退款，请按以下操作，refunds，按提示交工单，不懂英文的请打开浏览器翻译<br />
+<img width="687" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/3f77af08-23ed-4a7d-809e-651bfa5537d9">
+
