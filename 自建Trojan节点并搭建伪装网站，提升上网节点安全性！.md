@@ -78,7 +78,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 “你的域名”改成你前面解析好的域名
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
 正式安装Trojan
-<pre><code>curl -O https://raw.githubusercontent.com/xxxbrian/trojan.sh/main/trojan.sh && chmod +x trojan.sh && ./trojan.sh</pre></code>
+<pre><code>curl -O https://raw.githubusercontent.com/xiaochaib/trojan_atrandys/edit/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh</pre></code>
 
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
