@@ -50,6 +50,7 @@
 </tbody>
 </table>
 对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路，支持支付宝<br />
+搬瓦工优惠码：**BWHNCXNVXV**
 
 ### 域名购买、解析
 可使用Goday：[官网](https://www.godaddy.com/)或namesilo等域名注册商购买域名，推荐使用namesilo，免费的whois隐私保护！<br />
