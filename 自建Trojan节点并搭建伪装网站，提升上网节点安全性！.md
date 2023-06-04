@@ -86,7 +86,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 <pre><code>curl -O https://raw.githubusercontent.com/xiaochaib/trojan_atrandys/edit/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh</pre></code>
 
 ### 获取Trojan配置信息
-复制以下路径到FinalSheel中访问，找到server.conf即是服务端配置信息
+复制以下路径到FinalSheel中访问，找到server.conf直接在FinalShell中打开
 <pre><code>/usr/src/trojan</pre></code>
 如需要更改密码，修改server.conf后重新上传，再运行以下命令重启trojan生效
 <pre><code>systemctl restart trojan</pre></code>
