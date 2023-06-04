@@ -85,6 +85,12 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 正式安装Trojan
 <pre><code>curl -O https://raw.githubusercontent.com/xiaochaib/trojan_atrandys/edit/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh</pre></code>
 
+### 获取Trojan配置信息
+复制以下路径到FinalSheel中访问，找到server.conf即是服务端配置信息
+<pre><code>/usr/src/trojan</pre></code>
+如需要更改密码，修改server.conf后重新上传，再运行以下命令重启trojan生效
+<pre><code>systemctl restart trojan</pre></code>
+
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
