@@ -85,12 +85,9 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
 ### 如果是Vultr，需要开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放。
-<pre><code>apt-get install firewalld -y</pre></code>
-443处替换成你需要开放的端口号
-<pre><code>firewall-cmd --zone=public --add-port=443/tcp --permanent</pre></code>
-每次新开放端口后，重启防火墙
-<pre><code>firewall-cmd --reload</pre></code>
+Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
+
+<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
 
 # 客户端下载
 Trojan-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
