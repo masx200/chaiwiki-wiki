@@ -1,5 +1,8 @@
 ### Vultr服务器购买
-自建节点需要有一台VPS服务器，本次推荐Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳。<br />
+自建节点需要有一台VPS服务器，本次推荐Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过32个机房可选。<br />
+![1685845552674](https://github.com/xiaochaib/chaiwiki/assets/134616948/9306a881-8aa8-4970-a7d4-3ce32fbe6e93)
+
+
 如果追求极致速度，可考虑使用搬瓦工VPS。[搬瓦工VPS官网](https://bwh88.net/aff.php?aff=71506)，以下是推荐用来自建节点的机房，可点链接直达。<table role="table">
 <thead>
 <tr>
@@ -14,16 +17,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td align="center">普通</td>
-<td align="center">2 核</td>
-<td align="center">1024 MB</td>
-<td align="center">20 GB</td>
-<td align="center">1 G</td>
-<td align="center">1 TB / 月</td>
-<td align="center"><strong>$49.99 / 年</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=44" rel="nofollow">购买</a></td>
-</tr>
 <tr>
 <td align="center">CN2</td>
 <td align="center">1 核</td>
