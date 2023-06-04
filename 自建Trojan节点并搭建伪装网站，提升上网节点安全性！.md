@@ -68,7 +68,12 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 2、安装Trojan、申请证书
+### 如果是Vultr，需要开放端口
+Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
+
+<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
+
+### 2、申请证书
 [ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
 首先需要申请证书
 安装Acme
@@ -83,11 +88,6 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
-
-### 如果是Vultr，需要开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
-
-<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
 
 # 客户端下载
 Trojan-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
