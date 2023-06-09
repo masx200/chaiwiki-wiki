@@ -1,7 +1,5 @@
 ### VPS服务器购买
-自建节点需要有一台VPS服务器，推荐Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过32个机房可选，支持支付宝。<br />
-![1685845552674](https://github.com/xiaochaib/chaiwiki/assets/134616948/9306a881-8aa8-4970-a7d4-3ce32fbe6e93)
-
+自建节点需要有一台VPS服务器，如想月付，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付3.5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过32个机房可选，支持支付宝。<br />
 
 如果追求极致速度，也可考虑使用搬瓦工VPS。[搬瓦工VPS官网](https://bwh88.net/aff.php?aff=71506)，以下是推荐用来自建节点的机房，可点链接直达。<table role="table">
 <thead>
