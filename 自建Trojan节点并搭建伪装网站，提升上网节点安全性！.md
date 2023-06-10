@@ -47,7 +47,7 @@
 </tr>
 </tbody>
 </table>
-对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路，支持支付宝<br />
+对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路，支持支付宝，非常稳定，不满意支持退款，不用担心跑路。<br />
 搬瓦工优惠码：**BWHNCXNVXV**
 
 ### 域名购买、托管
@@ -98,3 +98,9 @@ Trojan-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/release
 IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
 安卓：[V2RayNG](https://github.com/2dust/v2rayNG)<br />
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
+
+# 结尾
+一请合理使用科学上网
+搬瓦工30天内新账户支持退款，请按以下操作，refunds，按提示交工单，不懂英文的请打开浏览器翻译
+![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/2957ec12-85c0-4194-93f9-e06fe5e5bf88)
+
