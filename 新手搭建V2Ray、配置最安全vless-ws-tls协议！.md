@@ -80,14 +80,17 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 <pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
 “你的域名”改成你前面解析好的域名
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
-正式安装Trojan
-<pre><code>curl -O https://raw.githubusercontent.com/xiaochaib/trojan_atrandys/edit/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh</pre></code>
+正式安装V2Ray(使用233Boy大佬的一键脚本)
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+执行如下命令：
+<pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
 
-### 获取Trojan配置信息
-复制以下路径到FinalSheel中访问，找到server.conf直接在FinalShell中打开
-<pre><code>/usr/src/trojan</pre></code>
-如需要更改密码，修改server.conf后重新上传，再运行以下命令重启trojan生效
-<pre><code>systemctl restart trojan</pre></code>
+# 管理面板
+安装完成后，输入 v2ray 就能看到管理面板，如下图片所示
+![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/7fb98d7e-5063-4092-a00c-a22d3d4a7e7b)
+
+V2Ray 脚本管理面板
+提示，如果你不想执行任何功能，直接按 Enter 回车退出即可。
 
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
