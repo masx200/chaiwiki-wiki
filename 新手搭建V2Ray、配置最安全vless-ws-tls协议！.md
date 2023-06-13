@@ -61,7 +61,7 @@ PING工具：[ping工具（检测解析域名是否生效）](https://ping.china
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
-### 安装Trojan（自带伪装网站）
+# 安装V2Ray
 ### 1、必要更新操作(Debian/Ubuntu)
 <pre><code>apt update -y && apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
@@ -71,16 +71,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
 
-### 2、申请证书
-[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
-首先需要申请证书
-安装Acme
-<pre><code>curl https://get.acme.sh | sh</pre></code>
-“你的邮箱”改成你的邮箱地址
-<pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
-“你的域名”改成你前面解析好的域名
-<pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
-正式安装V2Ray(使用233Boy大佬的一键脚本)
+### 正式安装V2Ray(使用233Boy大佬的一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
 执行如下命令：
 <pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
