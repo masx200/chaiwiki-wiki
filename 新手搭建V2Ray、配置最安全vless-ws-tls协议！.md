@@ -72,7 +72,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
 
 ### 正式安装V2Ray(使用233Boy大佬的一键脚本)
-系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
 执行如下命令：
 <pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
 
@@ -88,7 +88,7 @@ V2Ray 脚本管理面板
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
 # 客户端下载
-Trojan-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
+V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
 IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
 安卓：[V2RayNG](https://github.com/2dust/v2rayNG)<br />
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
