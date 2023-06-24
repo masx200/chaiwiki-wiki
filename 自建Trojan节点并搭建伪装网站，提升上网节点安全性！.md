@@ -73,7 +73,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 ### 如果是Vultr，需要开放端口
 Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
 
-<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --reload</pre></code>
+<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 ### 2、申请证书
 [ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
