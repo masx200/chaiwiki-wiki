@@ -56,15 +56,12 @@
 [搬瓦工JMS机场使用图文指引！点我~](https://github.com/bigtouchai/chaiwiki/wiki/%E6%9C%80%E7%A8%B3%E6%9C%BA%E5%9C%BA%EF%BC%9A%E6%90%AC%E7%93%A6%E5%B7%A5Just-My-Socks-%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E3%80%81%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
 
-
-
-
 ### # SSH连接工具
 任选其中一个即可<br />
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)<br />
 检测VPS的IP是否通畅：
-PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
+PING工具：[ping工具](https://ping.chinaz.com/)
 
 # 使用XRay一键脚本安装V2Ray+Reality协议
 ### 1、必要更新操作(Debian/Ubuntu)
@@ -79,11 +76,12 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 ### 正式安装XRay并部署V2Ray+Reality节点(使用233Boy大佬的一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
 执行如下命令：
-<pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
+<pre><code>bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh) -v v1.8.3</pre></code>
 
 # 管理面板
-安装完成后，输入 v2ray 就能看到管理面板，如下图片所示
-![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/7fb98d7e-5063-4092-a00c-a22d3d4a7e7b)
+安装完成后，输入 xray 就能看到管理面板，如下图片所示
+![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/a469a055-dad9-403c-8616-e25558ece040)
+
 
 V2Ray 脚本管理面板
 提示，如果你不想执行任何功能，直接按 Enter 回车退出即可。
