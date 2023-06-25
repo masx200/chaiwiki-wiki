@@ -89,7 +89,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
-# 客户端下载
+# 客户端下载（请安装或更新为最新版）
 V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
 IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
 安卓：[V2RayNG](https://github.com/2dust/v2rayNG)<br />
