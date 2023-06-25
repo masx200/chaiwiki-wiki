@@ -73,7 +73,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
-### 正式安装XRay并部署V2Ray+Reality节点(使用233Boy大佬的一键脚本)
+### 部署V2Ray（VLESS-XTLS-uTLS-REALITY）节点(233Boy一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
 执行如下命令：
 <pre><code>bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh) -v v1.8.3</pre></code>
