@@ -62,11 +62,11 @@
 ### # SSH连接工具
 任选其中一个即可<br />
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
-MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
+MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)<br />
 检测VPS的IP是否通畅：
 PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
 
-# 安装V2Ray
+# 使用XRay一键脚本安装V2Ray+Reality协议
 ### 1、必要更新操作(Debian/Ubuntu)
 <pre><code>apt update -y && apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
@@ -76,7 +76,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
-### 正式安装V2Ray(使用233Boy大佬的一键脚本)
+### 正式安装XRay并部署V2Ray+Reality节点(使用233Boy大佬的一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
 执行如下命令：
 <pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
