@@ -77,15 +77,16 @@ PING工具：[ping工具](https://ping.chinaz.com/)
 <pre><code>apt update -y && apt install -y curl wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
-一些服务器的端口需要手动开放，复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
-
-<pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 ### 部署V2Ray（VLESS-XTLS-uTLS-REALITY）节点(233Boy一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
 执行如下命令：
 <pre><code>bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh) -v v1.8.3</pre></code>
+
+### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
+一些服务器的端口需要手动开放，复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
+
+<pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 # 管理面板
 安装完成后，输入 xray 就能看到管理面板，如下图片所示
