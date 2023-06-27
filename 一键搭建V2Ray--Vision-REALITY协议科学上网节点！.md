@@ -85,7 +85,7 @@ PING工具：[ping工具](https://ping.chinaz.com/)
 
 ### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
 一些服务器的端口需要手动开放，复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
-
+<pre><code></pre></code>
 <pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 # 管理面板
