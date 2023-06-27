@@ -77,10 +77,10 @@ PING工具：[ping工具](https://ping.chinaz.com/)
 <pre><code>apt update -y && apt install -y curl wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 如果是Vultr，需要开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
+### 部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
+一些服务器的端口需要手动开放，复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
 
-<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
+<pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 ### 部署V2Ray（VLESS-XTLS-uTLS-REALITY）节点(233Boy一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
