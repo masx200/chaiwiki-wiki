@@ -84,7 +84,7 @@ PING工具：[ping工具](https://ping.chinaz.com/)
 <pre><code>bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh) -v v1.8.3</pre></code>
 
 ### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
-一些服务器的端口需要手动开放，像Vultr，需要安装防火墙
+一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）
 <pre><code>apt-get install firewalld</pre></code>
 然后复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
 <pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
