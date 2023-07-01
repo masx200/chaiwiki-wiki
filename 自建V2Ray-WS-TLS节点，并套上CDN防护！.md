@@ -55,11 +55,11 @@
 如果真的不想自建，想用机场，那么我推荐你使用搬瓦工官方JMS机场，非常稳定、不跑路！<br />
 [搬瓦工JMS机场使用图文指引！点我~](https://github.com/bigtouchai/chaiwiki/wiki/%E6%9C%80%E7%A8%B3%E6%9C%BA%E5%9C%BA%EF%BC%9A%E6%90%AC%E7%93%A6%E5%B7%A5Just-My-Socks-%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E3%80%81%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
-### 域名购买、托管
+### 域名购买、托管到CloudFlare
 可使用Goday：[官网](https://www.godaddy.com/)或namesilo等域名注册商购买域名，推荐使用namesilo，免费的whois隐私保护！<br />
 NameSilo官网：[namesilo官网](https://www.namesilo.com/?rid=1cfe997de/)<br />
-PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
-
+PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
+CloudFlare(套CDN)：[CF官网）](https://www.cloudflare.com/zh-cn/)
 
 ### # SSH连接工具
 任选其中一个即可<br />
@@ -71,10 +71,11 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>apt update -y && apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 如果是Vultr，需要开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，复制以下命令运行就行
-
-<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=443/tcp --permanent && firewall-cmd --zone=public --add-port=80/tcp --permanent && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
+### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
+一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）
+<pre><code>apt-get install firewalld</pre></code>
+然后复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
+<pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 ### 正式安装V2Ray(使用233Boy大佬的一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
