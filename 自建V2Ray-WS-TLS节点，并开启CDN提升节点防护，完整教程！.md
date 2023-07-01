@@ -63,7 +63,7 @@ CloudFlare(套CDN)：[CF官网）](https://www.cloudflare.com/zh-cn/)
 
 ### # SSH连接工具
 任选其中一个即可<br />
-FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
+FinalShell(推荐、全平台):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 # 安装V2Ray
