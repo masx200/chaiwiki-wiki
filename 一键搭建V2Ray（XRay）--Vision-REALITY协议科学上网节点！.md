@@ -1,3 +1,4 @@
+请配合视频教程食用：https://youtu.be/EFcRSSNlT34
 ### # XRay Vision/Reality协议优势
 Xray-core 团队推出了 Vision 和 Reality 两种新颖的技术方案,可以应对TLS in TLS和指纹识别等阻断或封禁的风险，它们能够有效地隐藏和保护流量的特征，提高安全性和稳定性。<br />
 
