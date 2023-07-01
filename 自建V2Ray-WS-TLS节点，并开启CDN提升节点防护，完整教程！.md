@@ -57,7 +57,7 @@
 
 ### 域名购买、托管到CloudFlare
 域名注册、购买，推荐使用namesilo，免费的whois隐私保护！<br />
-NameSilo官网：[namesilo官网](https://www.namesilo.com/?rid=1cfe997de/)<br />
+NameSilo官网（域名）：[namesilo官网](https://www.namesilo.com/?rid=1cfe997de/)<br />
 PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
 CloudFlare(套CDN)：[CF官网）](https://www.cloudflare.com/zh-cn/)
 
