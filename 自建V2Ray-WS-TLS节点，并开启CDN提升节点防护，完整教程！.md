@@ -56,7 +56,7 @@
 [搬瓦工JMS机场使用图文指引！点我~](https://github.com/bigtouchai/chaiwiki/wiki/%E6%9C%80%E7%A8%B3%E6%9C%BA%E5%9C%BA%EF%BC%9A%E6%90%AC%E7%93%A6%E5%B7%A5Just-My-Socks-%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E3%80%81%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
 ### 域名购买、托管到CloudFlare
-可使用Goday：[官网](https://www.godaddy.com/)或namesilo等域名注册商购买域名，推荐使用namesilo，免费的whois隐私保护！<br />
+域名注册、购买，推荐使用namesilo，免费的whois隐私保护！<br />
 NameSilo官网：[namesilo官网](https://www.namesilo.com/?rid=1cfe997de/)<br />
 PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
 CloudFlare(套CDN)：[CF官网）](https://www.cloudflare.com/zh-cn/)
