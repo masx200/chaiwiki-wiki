@@ -71,7 +71,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>apt update -y && apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口）
+### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口,所以此步不需要）
 一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）
 <pre><code>apt-get install firewalld</pre></code>
 然后复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
