@@ -10,9 +10,9 @@
 <pre><code>/etc/init.d/iptables restart</pre></code>
 
 方法2：防火墙开放
-这种应该是最常用的，一般VPS服务器都有防火墙，如无，可运行安装，像Vultr，按官方文档就需要先安装防火墙，再开放端口
-一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）
+这种应该是最常用的，一般VPS服务器都有防火墙，如无，可运行安装，像Vultr，按官方文档就需要先安装防火墙，再开放端口<br />
+运行以下命令安装防火墙（CentOS运行yum install firewalld安装）
 <pre><code>apt-get install firewalld</pre></code>
-然后复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效
+然后复制以下命令，按需开放端口，将其中的22数字改成你需要开放的端口，运行命令即可生效，为防止连接上不SSH，第一条命令可先开放SSH端口
 <pre><code>firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
