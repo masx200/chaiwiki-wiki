@@ -10,5 +10,7 @@ Welcome to the chaiwiki wiki!
 
 
 # 其它索引
-VPS开放端口：
+[VPS开放端口教程](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)<br />
+
+
 
