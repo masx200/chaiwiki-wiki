@@ -72,8 +72,8 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
 ### 可选操作：部分VPS服务器需要开放端口（搬瓦工已默认开放所有端口,所以此步不需要）<br />
-一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）
-请参考此篇开放端口:[VPS开放端口](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)<br />
+一些服务器的端口需要手动开放，像Vultr，需要安装防火墙（CentOS运行yum install firewalld安装）<br />
+请参考此篇开放端口:[VPS开放端口](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)
 
 ### 正式安装V2Ray(使用233Boy大佬的一键脚本)
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
