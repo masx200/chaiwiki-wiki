@@ -69,8 +69,8 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 ![客户端下载](https://i.imgur.com/JhGhFPA.png)
 
 如下图，可以看到每个平台客户端的下载地址，选择你的对就平台去下载安装客户端：
+<img width="1435" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/0af0faee-9035-4e0b-bf2a-66cd475f8347">
 
-![下载客户端](https://i.imgur.com/Im7iyJT.png)
 
 ## Windows客户端使用方法
 
