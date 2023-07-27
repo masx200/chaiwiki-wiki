@@ -56,20 +56,24 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 购买完成后，点击『服务』-『我的服务』即可查看套餐信息和节点信息：
 ![查看套餐](https://i.imgur.com/enK0p8i.png)
 
-这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放）：
+这里就可以看到节点详情了，包括SS、V2Ray协议等节点，任君选择，并会列出此节点的加密方式，端口，密码IP之类的，可以记下这些节点信息，导入科学上网客户端中，下文提供了常见的各平台科学上网客户端，请往下拉进行下载。
 ![节点信息](https://i.imgur.com/U3mzrLi.png)
 
 往下滑可以看到二维码和链接，方便快速导入服务器信息：
 ![二维码](https://i.imgur.com/iqQcaQk.png)
 
-# 各平台客户端如何连接JMS？
+# 客户端下载和如何连接JMS节点？
+这里提供各平台最常用的科学上网客户端，点进去，找到最新版本下载就行。<br />
+V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
+<img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/7e280969-868a-40c1-8bfd-efed40f0acb4">
 
-首先，点左上『技术支援』-『知识库』，找到Software download link这个链接点进去：
 
-![客户端下载](https://i.imgur.com/JhGhFPA.png)
+IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
+安卓：[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
+<img width="1425" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/1723bdbb-9be3-42b5-962f-3d330486a1c5">
 
-如下图，可以看到每个平台客户端的下载地址，选择你的对就平台去下载安装客户端：
-<img width="1435" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/0af0faee-9035-4e0b-bf2a-66cd475f8347">
+苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
+<img width="1382" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/bd8d7b1c-de8c-402d-87e1-45961ef53ad3">
 
 
 ## Windows客户端使用方法
@@ -91,10 +95,11 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 ![连接](https://i.imgur.com/u7sX6MC.png)
 
 ## 苹果手机客户端使用方法
-首先苹果应用商店使用除国区外的账号登录，搜索Potatso Lite，免费的，安装！
-![IOS](https://i.imgur.com/rX4Sv1z.png)
-最后，导入后点击连接即可上网了。
-![连接](https://i.imgur.com/ub2nOlA.png)
+首先苹果应用商店使用除国区外的账号登录，搜索Shadowrocket，需要付费安装，2.99刀，约20块人民币左右。可以在支付宝中切换到美国，搜索礼品卡并充值到你美区账户购买小火箭
+可以参考这篇文章操作非常简单：https://zhuanlan.zhihu.com/p/636121931?utm_id=0
+然后安装完小火箭，打开后，点击左上角，扫码导入节点，并开启，成功科学上网
+
+
 
 ## 苹果Mac客户端使用方法
 在上面的软件下载那，下载苹果版客户端，解压后打开，会提示输入开机密码，打开浏览器显示节点配置的二维码，按下图导入使用：
