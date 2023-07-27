@@ -87,16 +87,9 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 <img width="465" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/7f35c121-9119-4178-8551-7c5556049758">
 
 
-
-在客户端下载页面下载安卓平台客户端后，复制到手机上安装并打开！
-![安卓](https://i.imgur.com/Nz0w9hy.png)
-
-导入后，点一下导入的节点选中，点右下的小飞机图标，变成绿色就是开启了，可以正常上网了！
-![连接](https://i.imgur.com/u7sX6MC.png)
-
 ## 苹果手机客户端使用方法
 首先苹果应用商店使用除国区外的账号登录，搜索Shadowrocket，需要付费安装，2.99刀，约20块人民币左右。可以在支付宝中切换到美国，搜索礼品卡并充值到你美区账户购买小火箭
-可以参考这篇文章操作非常简单：https://zhuanlan.zhihu.com/p/636121931?utm_id=0
+可以参考这篇文章操作非常简单：https://zhuanlan.zhihu.com/p/636121931?utm_id=0<br />
 然后安装完小火箭，打开后，点击左上角，扫码导入节点，并开启，成功科学上网
 
 
