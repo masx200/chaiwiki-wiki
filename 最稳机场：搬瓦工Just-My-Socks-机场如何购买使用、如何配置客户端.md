@@ -91,11 +91,12 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 首先苹果应用商店使用除国区外的账号登录，搜索Shadowrocket，需要付费安装，2.99刀，约20块人民币左右。可以在支付宝中切换到美国，搜索礼品卡并充值到你美区账户购买小火箭
 可以参考这篇文章操作非常简单：https://zhuanlan.zhihu.com/p/636121931?utm_id=0<br />
 然后安装完小火箭，打开后，点击左上角，扫码导入节点，并开启，成功科学上网
+![IMG_6829](https://github.com/xiaochaib/chaiwiki/assets/134616948/a13365da-8be5-4d2b-aa18-11103347c87d)
 
 
 
 ## 苹果Mac客户端使用方法
-在上面的软件下载那，下载苹果版客户端，解压后打开，会提示输入开机密码，打开浏览器显示节点配置的二维码，按下图导入使用：
+在上面的软件下载那，下载苹果版客户端V2RayU，安装，会提示输入开机密码，然后在右上角图标栏中找到下图的U图标，点开，通过扫描图中二维码或快捷方式导入，此时可以打开浏览器的节点二维码，就会自动扫描屏幕上的二维码了，然后Turn v2ray on开启上网，选择PAC模式
 
-![MAC](https://i.imgur.com/sKulthH.png)
+<img width="754" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/e41a840c-b51d-4d87-acf8-3ceca99e7621">
 经网络搜集整理而来，侵删
