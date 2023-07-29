@@ -64,7 +64,7 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 ![二维码](https://i.imgur.com/iqQcaQk.png)
 
 # 客户端下载和如何连接JMS节点？
-这里提供各平台最常用的科学上网客户端，点进去，找到最新版本下载就行。<br />
+这里提供各平台最常用的科学上网客户端，点击蓝色字链接进去，找到最新版本下载就行。<br />
 V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
 <img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/7e280969-868a-40c1-8bfd-efed40f0acb4">
 
