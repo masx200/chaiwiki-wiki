@@ -114,6 +114,9 @@ FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 Windows：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
 安卓：[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
 
+# 注意点
+MacBook上的代理软件同时只能运行一个，所以如果设置完成不能科学上网，检查代理软件有没冲突，有没有在浏览器上安装其它代理插件导致冲突，关闭这些多余的代理软件或插件后再尝试，也可以更换浏览器尝试能否访问谷歌，能访问谷歌就代表成功。
+
 
 # 结尾
 一**请合理使用科学上网**<br />
