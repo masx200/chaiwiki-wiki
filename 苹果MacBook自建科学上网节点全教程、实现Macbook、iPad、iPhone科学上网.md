@@ -101,10 +101,13 @@ FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 
 在App Store登录你注册的美区ID并充值3刀后，直接在App Store搜索Shadowrocket，就可以完成购买并下载。<br />
 
-Windows：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
-IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
-安卓：[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
+如果是MacBook电脑，推荐使用V2RayU客户端，支持协议也非常全面。<br />
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
+
+恰好，如果手上也有Windows系统或安卓手机需要使用科学上网，那么它们的客户端下载链接分别如下：<br />
+Windows：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
+安卓：[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
+
 
 # 结尾
 一**请合理使用科学上网**<br />
