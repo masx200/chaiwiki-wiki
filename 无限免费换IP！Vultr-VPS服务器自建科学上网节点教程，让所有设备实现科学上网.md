@@ -57,7 +57,7 @@
 [搬瓦工JMS机场使用图文指引！点我~](https://github.com/bigtouchai/chaiwiki/wiki/%E6%9C%80%E7%A8%B3%E6%9C%BA%E5%9C%BA%EF%BC%9A%E6%90%AC%E7%93%A6%E5%B7%A5Just-My-Socks-%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E3%80%81%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
 ### 检测服务器状态
-Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配。<br />
+Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配（新建的机器要5分钟后才能执行销毁）。<br />
 机器开通后大概3-5分钟（一定要3-5分钟后再检测，刚新建的机器初始化中），复制机器的IP到以下网址进行ping检测，如可以检测通过就代表这个IP可用，否则，销毁机器，按前面新建机器的步骤重新来一次，再检测IP，直到IP可用。
 PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
 
