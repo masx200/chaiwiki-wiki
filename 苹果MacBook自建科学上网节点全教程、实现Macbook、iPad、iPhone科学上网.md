@@ -83,8 +83,8 @@ FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 
 
 ### 2、安装x-ui
-感谢github vaxilu大佬开发如此好用的一键脚本
-<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)</pre></code>
+感谢github FranzKafkaYu大佬开发如此好用的一键脚本
+<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
 ### 3、证书申请（开TLS提升安全性必备）
 [ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
