@@ -56,22 +56,21 @@ PING工具：[ping工具（检测服务器IP是否可用）](https://ping.chinaz
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
-# 安装V2Ray
 ### 1、必要更新操作(Debian/Ubuntu)
-<pre><code>apt update -y && apt install -y curl socat wget</pre></code>
+<pre><code>apt update -y && apt install -y curl wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-### 正式安装V2Ray(使用233Boy大佬的一键脚本)
-系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu，谨慎使用 CentOS，脚本可能无法正常运行！<br />
-执行如下命令：
-<pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
+
+### 2、安装x-ui
+感谢github FranzKafkaYu大佬开发如此好用的一键脚本
+<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
 ### 手动开放端口
 Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行<br />
 首先，需要安装防火墙，复制以下命令到ssh中运行就行
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
-根据你获取的节点信息，记下节点信息中的端口（port）号，将记下的端口号替换到下方命令中的『端口』两字中，即是完整命令，运行即可
+根据你获取的节点信息，记下节点信息中的端口（port）号，将记下的端口号替换到下方命令中的『端口』两字中，即是完整命令，运行即可、当然，x-ui面板的端口首先要开放
 <pre><code>firewall-cmd --zone=public --add-port=端口/tcp --permanent && firewall-cmd --reload</pre></code>
 注意，后续如果重新配置节点信息，端口有变动，切记重新运行以上放行端口的命令，不然会导致节点无法使用，切记
 
@@ -89,9 +88,6 @@ V2Ray 脚本管理面板
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
-# 二维码生成
-将前面获取的节点快捷信息转成二维码形式，可以使用客户端快捷导入<br />
-二维码生成：https://cli.im/
 
 # 客户端下载
 V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
