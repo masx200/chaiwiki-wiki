@@ -17,35 +17,27 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">CN2</td>
+<td align="center">Vultr-入门</td>
 <td align="center">1 核</td>
 <td align="center">1024 MB</td>
-<td align="center">20 GB</td>
+<td align="center">25 GB</td>
 <td align="center">1 G</td>
-<td align="center">1000GB / 月</td>
-<td align="center"><strong>$49.99 / 年</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=57" rel="nofollow">购买</a></td>
+<td align="center">1024GB / 月</td>
+<td align="center"><strong>$5 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
 </tr>
 <tr>
-<td align="center">CN2 GIA</td>
-<td align="center">2 核</td>
-<td align="center">1 GB</td>
-<td align="center">20 GB</td>
-<td align="center"><strong>2.5 G</strong></td>
-<td align="center">1000GB / 月</td>
-<td align="center"><strong>$49.99 / 季</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=87" rel="nofollow">购买</a></td>
-</tr>
-<tr>
-<td align="center">香港</td>
-<td align="center">2 核</td>
+<td align="center">Vultr-进阶</td>
+<td align="center">1 核</td>
 <td align="center">2048 MB</td>
-<td align="center">40 GB</td>
+<td align="center">55 GB</td>
 <td align="center">1 G</td>
-<td align="center">500GB / 月</td>
-<td align="center"><strong>$89.99 / 月</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=95" rel="nofollow">购买</a></td>
+<td align="center">2048GB / 月</td>
+<td align="center"><strong>$10 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
 </tr>
+
+
 </tbody>
 </table>
 对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路<br />
