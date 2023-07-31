@@ -1,4 +1,4 @@
-请配合视频教程食用：https://youtu.be/EFcRSSNlT34
+请配合视频教程食用：https://www.youtube.com/@bigtouchai
 # 前言
 许多朋友是使用苹果全家桶的，但网上许多搭建节点的教程都是在Windows系统上演示的，单纯使用MacBook电脑来演示搭建全程的教程非常少，所以这期视频我会演示如何在苹果MacBook电脑上自建节点、以及如何在MacBook、苹果iPhone、iPad平板上使用自建的节点进行科学上网，最后，有些主力使用苹果全家桶的朋友可能也会有Windows电脑或安卓手机，所以也会演示如何在Windows、安卓手机上使用这些节点进行科学上网。
 
