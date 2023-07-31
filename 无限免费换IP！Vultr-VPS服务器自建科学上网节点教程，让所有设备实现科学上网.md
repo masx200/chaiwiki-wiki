@@ -79,7 +79,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 
 # 管理面板
-安装完成后，输入 v2ray 就能看到管理面板，如下图片所示
+安装完成后，输入 v2ray 就能看到管理面板，如下图片所示，可以重新查看已有节点的配置信息
 ![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/7fb98d7e-5063-4092-a00c-a22d3d4a7e7b)
 
 V2Ray 脚本管理面板
@@ -88,6 +88,10 @@ V2Ray 脚本管理面板
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
+
+# 二维码生成
+将前面获取的节点快捷信息转成二维码形式，可以使用客户端快捷导入<br />
+二维码生成：https://cli.im/
 
 # 客户端下载
 V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
