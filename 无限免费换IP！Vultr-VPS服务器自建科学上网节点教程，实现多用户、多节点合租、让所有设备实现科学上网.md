@@ -80,8 +80,9 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 
 # 管理面板
-安装完成后，输入 v2ray 就能看到管理面板，如下图片所示，可以重新查看已有节点的配置信息
-![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/7fb98d7e-5063-4092-a00c-a22d3d4a7e7b)
+安装完成后，输入 x-ui 就能看到管理面板，如下图片所示，可以重新查看面板信息
+<img width="770" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/879a01cc-f20b-4efb-bc35-5710bbddcf7d">
+
 
 V2Ray 脚本管理面板
 提示，如果你不想执行任何功能，直接按 Enter 回车退出即可。
