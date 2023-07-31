@@ -80,7 +80,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 首先，需要安装防火墙，复制以下命令到ssh中运行就行
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
-根据你获取的节点信息，找到端口，记下此端口号，并将端口号替换到命令中的『端口』中，运行即可
+根据你获取的节点信息，记下节点信息中的端口（port）号，将记下的端口号替换到下方命令中的『端口』两字中，即是完整命令，运行即可
 <pre><code>firewall-cmd --zone=public --add-port=端口/tcp --permanent && firewall-cmd --reload</pre></code>
 
 参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
