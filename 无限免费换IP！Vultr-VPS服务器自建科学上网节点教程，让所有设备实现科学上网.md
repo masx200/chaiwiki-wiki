@@ -76,12 +76,14 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>bash <(wget -qO- -o- https://git.io/v2ray.sh)</pre></code>
 
 ### 手动开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行
+Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行<br />
 首先，需要安装防火墙，复制以下命令到ssh中运行就行
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
 根据你获取的节点信息，找到端口，记下此端口号，并将端口号替换到命令中的『端口』中，运行即可
 <pre><code>firewall-cmd --zone=public --add-port=端口/tcp --permanent && firewall-cmd --reload</pre></code>
+
+参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
 
 
 # 管理面板
