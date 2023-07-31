@@ -74,7 +74,6 @@
 
 
 # SSH连接工具
-任选其中一个即可<br />
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 
 
