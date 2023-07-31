@@ -82,6 +82,7 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 
 根据你获取的节点信息，记下节点信息中的端口（port）号，将记下的端口号替换到下方命令中的『端口』两字中，即是完整命令，运行即可
 <pre><code>firewall-cmd --zone=public --add-port=端口/tcp --permanent && firewall-cmd --reload</pre></code>
+注意，后续如果重新配置节点信息，端口有变动，切记重新运行以上放行端口的命令，不然会导致节点无法使用，切记
 
 参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
 
