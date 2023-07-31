@@ -89,6 +89,8 @@ FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 
 # BBR加速
 内置bbr加速，输入x-ui显示菜单，输入数字15即可自动一键安装bbr加速，提升科学上网速度。<br />
+<img width="736" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/97af6a16-230f-48c2-a217-5469e85113f2">
+
 或者使用以下脚本安装bbr：
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
