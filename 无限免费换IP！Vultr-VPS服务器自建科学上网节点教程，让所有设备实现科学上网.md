@@ -2,7 +2,7 @@
 ### VPS服务器购买
 自建节点需要有一台VPS服务器，如想月付，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付3.5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过32个机房可选，支持支付宝。<br />
 
-如果追求极致速度，也可考虑使用搬瓦工VPS。[搬瓦工VPS官网](https://bwh88.net/aff.php?aff=71506)，以下是推荐用来自建节点的机房，可点链接直达。<table role="table">
+<table role="table">
 <thead>
 <tr>
 <th align="center">线路名称</th>
@@ -36,13 +36,9 @@
 <td align="center"><strong>$10 / 月</strong></td>
 <td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
 </tr>
-
-
 </tbody>
 </table>
-对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路<br />
-如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
-搬瓦工优惠码：**BWHNCXNVXV**
+对于绝大多数用户来说，入门线路已经满足，5美刀一个月，并且每月1TB流量，适合多人使用，可以和朋友合租一起用；<br />
 
 
 如果真的不想自建，想用机场，那么我推荐你使用搬瓦工官方JMS机场，非常稳定、不跑路！<br />
