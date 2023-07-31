@@ -86,14 +86,6 @@ FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 感谢github FranzKafkaYu大佬开发如此好用的一键脚本
 <pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
-### 3、证书申请（开TLS提升安全性必备）
-[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
-安装Acme
-<pre><code>curl https://get.acme.sh | sh</pre></code>
-“你的邮箱”改成你的邮箱地址
-<pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
-“你的域名”改成你前面解析好的域名
-<pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
 
 # BBR加速
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
