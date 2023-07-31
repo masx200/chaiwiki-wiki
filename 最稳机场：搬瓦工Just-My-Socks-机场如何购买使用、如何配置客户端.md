@@ -19,7 +19,7 @@ Just My Socks 官网入口1：[https://justmysocks3.net](https://justmysocks3.ne
 
 Just My Socks 官网入口2：[https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=27005&gid=1)(已被墙，需挂代理)<br />
 
-Just My Socks 官网入口3：[https://justmysocks5.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
+Just My Socks 官网入口3：[https://justmysocks2.net](https://justmysocks2.net/members/aff.php?aff=27005&gid=1)
 
 **进入官网后，右上角选择语言为中文**
 
