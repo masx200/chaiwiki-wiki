@@ -102,6 +102,4 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 
 # 结尾
 一请合理使用科学上网<br />
-搬瓦工30天内新账户支持退款，请按以下操作，refunds，按提示交工单，不懂英文的请打开浏览器翻译
-![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/2957ec12-85c0-4194-93f9-e06fe5e5bf88)
 
