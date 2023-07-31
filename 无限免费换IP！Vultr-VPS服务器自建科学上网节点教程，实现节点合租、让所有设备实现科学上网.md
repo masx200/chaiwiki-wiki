@@ -56,6 +56,8 @@ PING工具：[ping工具（检测服务器IP是否可用）](https://ping.chinaz
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
+
+### 安装X-ui面板并配置节点
 ### 1、必要更新操作(Debian/Ubuntu)
 <pre><code>apt update -y && apt install -y curl wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
