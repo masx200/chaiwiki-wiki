@@ -107,4 +107,3 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 在上面的软件下载那，下载苹果版客户端V2RayU，安装，会提示输入开机密码，然后在右上角图标栏中找到下图的U图标，点开，通过扫描图中二维码或快捷方式导入，此时可以打开浏览器的节点二维码，就会自动扫描屏幕上的二维码了，然后在服务器列表中选中你刚导入的节点信息，然后Turn v2ray on开启上网，选择PAC模式
 
 <img width="754" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/e41a840c-b51d-4d87-acf8-3ceca99e7621"><br />
-经网络搜集整理而来，侵删
