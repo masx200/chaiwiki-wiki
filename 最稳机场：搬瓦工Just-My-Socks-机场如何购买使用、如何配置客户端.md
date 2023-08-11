@@ -95,7 +95,9 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 
 ## 苹果手机客户端使用方法
 首先苹果应用商店使用除国区外的账号登录，搜索Shadowrocket，需要付费安装，2.99刀，约20块人民币左右。可以在支付宝中切换到美国，搜索礼品卡并充值到你美区账户购买小火箭
-可以参考这篇文章操作非常简单：https://zhuanlan.zhihu.com/p/636121931?utm_id=0<br />
+可以参考以下两篇文章操作非常简单：<br />
+如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/635054054<br />
+美区账号如何充值：https://zhuanlan.zhihu.com/p/636121931<br />
 然后安装完小火箭，打开后，点击左上角，扫码导入节点，并开启，成功科学上网
 ![IMG_6829](https://github.com/xiaochaib/chaiwiki/assets/134616948/a13365da-8be5-4d2b-aa18-11103347c87d)
 
