@@ -66,8 +66,8 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 往下滑可以看到二维码和链接，方便快速导入服务器信息：
 ![二维码](https://i.imgur.com/iqQcaQk.png)
 
-# 客户端下载和如何连接JMS节点？
-这里提供各平台最常用的科学上网客户端，点击蓝色字链接进去，找到最新版本下载就行。<br />
+# 客户端下载
+JMS使用需要配合对应科学上网客户端，这里提供各平台最常用的科学上网客户端，点击蓝色字链接进去，找到最新版本下载就行。<br />
 V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)<br />
 <img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/7e280969-868a-40c1-8bfd-efed40f0acb4">
 
@@ -83,7 +83,7 @@ IOS：首先苹果应用商店使用除国区外的账号登录，搜索Shadowro
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
 <img width="1382" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/bd8d7b1c-de8c-402d-87e1-45961ef53ad3">
 
-
+# 如何导入JMS节点到客户端
 ## Windows客户端使用方法
 
 在客户端下载页面下载Windows平台客户端（建议下载V2rayN客户端，比较好用），安装后，打开，在桌面状态栏右下角会有V字母图标，双击打开，同时打开浏览器，拖动浏览器找到节点信息的二维码页面，找到『扫描屏幕上的二维码』，即可自动导入节点，也可以复制节点信息页面的快速导入链接，选择从剪贴板导入，然后选服务器，再选择PAC模式，即可开启上网之路！
