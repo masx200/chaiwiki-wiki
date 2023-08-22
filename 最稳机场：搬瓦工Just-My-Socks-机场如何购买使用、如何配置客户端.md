@@ -8,7 +8,8 @@ Just My Socks目前提供多条线路，涵盖洛杉矶、香港、东京等机�
 **最重要的：JMS有口碑，速度好，不用担心跑路，可以稳定长期使用！**
 
 如果不想自建，那么刚买机场是你很好的选择，省时省力，免去各种自建繁琐的步骤，对于小白和新手非常友好！
-![JMS官网套餐列表](https://i.imgur.com/6SYL9tm.jpg)
+<img width="1186" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ed46be73-77a0-4b9a-8923-d41f86d7117b">
+
 
 # 如何购买Just My Socks
 首先选择套餐
