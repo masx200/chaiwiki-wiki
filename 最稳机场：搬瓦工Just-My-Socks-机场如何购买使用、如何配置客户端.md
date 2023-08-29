@@ -63,6 +63,10 @@ Just My Socks Tokyo：100G流量/月/3台设备在线
 下文提供了常见的各平台科学上网客户端，请往下拉进行下载。
 ![节点信息](https://i.imgur.com/U3mzrLi.png)
 
+或者按下图提示，找到订阅链接或二维码链接导入节点信息，最方便的方式：
+<img width="1126" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/45de935e-907e-429d-9ccf-6ccc61c0bfed">
+
+
 往下滑可以看到二维码和链接，方便快速导入服务器信息：
 ![二维码](https://i.imgur.com/iqQcaQk.png)
 
