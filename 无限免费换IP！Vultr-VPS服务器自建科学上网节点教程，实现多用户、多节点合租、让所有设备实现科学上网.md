@@ -69,7 +69,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
 ### 手动开放端口
-Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行!注意，以下操作仅适用于Ubuntu 20版本系统，请在Vultr部署时选择这个版本系统<br />
+Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行!注意，以下操作仅适用于Ubuntu 20.04版本系统，请在Vultr部署时选择这个版本系统<br />
 首先，需要安装防火墙，复制以下命令到ssh中运行就行
 <pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
 
