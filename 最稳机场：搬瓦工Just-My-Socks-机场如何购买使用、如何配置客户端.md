@@ -1,5 +1,5 @@
 **本教程中，你会学到，搬瓦工官方机场JMS如何购买，以及各个平台如何使用（Windwos+安卓+苹果手机+苹果电脑），不用担心学不会，小白也能轻松学会，跟着教程来就可以了！**
-<br />可配合视频教程食用：https://www.youtube.com/@bigtouchai/playlists
+<br />可配合视频教程食用：https://youtu.be/dt2Y_8keEtM
 # Just My Socks 是什么
 JMS是搬瓦工自家的机场，没错，就是那个卖VPS很火的搬瓦工！
 
