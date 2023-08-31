@@ -115,13 +115,13 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 **IOS：**App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）<br />
 不管是iPad平板还是iPhone手机，比较推荐的科学上网软件必定是：Shadowrocket，但是需要注册一个非国区或美区账号才能进行购买，目前是2.99美刀约20块人民币，注册美区账号和充值购买也非常简单，请参考以下两篇文章。<br />
-如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/635054054<br />
+如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/635054054<br /><br />
 美区账号如何充值：https://zhuanlan.zhihu.com/p/636121931<br />
-注册美区ID并按以上方法充值后，在App Store中搜索Shadowrocket购买并下载安装<br />
+注册美区ID并按以上方法充值后，在App Store中搜索Shadowrocket购买并下载安装<br /><br />
 
-**安卓：**[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
+**安卓：**[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br /><br />
 
-**苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
+**苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br /><br />
 
 # 结尾
 一**请合理使用科学上网**<br />
