@@ -93,7 +93,17 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 “你的域名”改成你前面解析好的域名
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
 
+# 管理面板
+安装完成后，输入 x-ui 就能看到管理面板，如下图片所示，可以重新查看面板信息
+<img width="770" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/879a01cc-f20b-4efb-bc35-5710bbddcf7d">
+
+
 # BBR加速
+内置bbr加速，输入x-ui显示菜单，输入数字15即可自动一键安装bbr加速，提升科学上网速度。<br />
+<img width="774" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/86949887-8441-4641-8dae-59efaf32f358">
+
+
+或者使用以下脚本安装bbr：
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
