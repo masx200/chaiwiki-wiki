@@ -77,14 +77,12 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 # 正式安装、搭建节点
 
 ### 1、必要更新操作(Debian/Ubuntu)
-<pre><code>apt update -y</pre></code>
-<pre><code>apt install -y curl socat wget</pre></code>
+<pre><code>apt update -y && apt install -y curl wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
-
 ### 2、安装x-ui
-感谢github vaxilu大佬开发如此好用的一键脚本
-<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)</pre></code>
+感谢github FranzKafkaYu大佬开发如此好用的一键脚本
+<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
 ### 3、证书申请（开TLS提升安全性必备）
 [ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
