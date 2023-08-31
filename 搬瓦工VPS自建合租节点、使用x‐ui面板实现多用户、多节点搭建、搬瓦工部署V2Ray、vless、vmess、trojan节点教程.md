@@ -85,7 +85,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
 ### 3、证书申请（开TLS协议必备）
-要想使用tls模式，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，并记录下来备用
+要想使用tls模式，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，这一串就是对应你服务器的真实域名，并记录下来备用，下面申请证书时会用到这个域名
 <pre><code>app.10.0.0.1.nip.io</pre></code>
 
 安装Acme
