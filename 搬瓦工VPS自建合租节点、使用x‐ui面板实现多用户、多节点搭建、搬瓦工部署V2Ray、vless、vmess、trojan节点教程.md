@@ -84,8 +84,10 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 感谢github FranzKafkaYu大佬开发如此好用的一键脚本
 <pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
 
-### 3、证书申请（开TLS提升安全性必备）
-[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)<br />
+### 3、证书申请（开TLS协议必备）
+要想使用tls模式，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，并记录下来备用
+<pre><code>app.10.0.0.1.nip.io</pre></code>
+
 安装Acme
 <pre><code>curl https://get.acme.sh | sh</pre></code>
 “你的邮箱”改成你的邮箱地址
