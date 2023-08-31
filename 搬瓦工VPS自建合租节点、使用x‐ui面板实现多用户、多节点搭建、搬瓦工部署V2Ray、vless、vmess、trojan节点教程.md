@@ -77,7 +77,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 # 正式安装、搭建节点
 
 ### 1、必要更新操作(Debian/Ubuntu)
-<pre><code>apt update -y && apt install -y curl wget</pre></code>
+<pre><code>apt update -y && apt install -y curl socat wget</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
 
 ### 2、安装x-ui
