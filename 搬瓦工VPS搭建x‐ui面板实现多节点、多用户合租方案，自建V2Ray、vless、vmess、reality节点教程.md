@@ -74,7 +74,7 @@
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
-# 正式安装、搭建节点
+# 正式安装、搭建x-ui面板搭建节点
 
 ### 1、必要更新操作(Debian/Ubuntu)
 <pre><code>apt update -y && apt install -y curl socat wget</pre></code>
