@@ -1,4 +1,4 @@
-请配合视频教程食用：https://youtu.be/AqfhmqC5HWI
+请配合视频教程食用：https://youtu.be/k2Tz51h0lQg  视频有字幕，请打开字幕观看
 # 前言
 借助x-ui面板可以部署V2Ray、Xray、SS、Trojan、reality等协议的节点，并且有后台面板方便查看和设置节点信息，对小白非常友好，请结合以下步骤进行操作。
 
