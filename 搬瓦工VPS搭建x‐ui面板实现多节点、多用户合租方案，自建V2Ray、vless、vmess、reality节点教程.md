@@ -109,11 +109,6 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
 <pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
 
-补充：如是其它VPS可能需要放行端口
-注意，如果使用是搬瓦工的VPS，不需要理会端口放行<br />
-[VPS放行端口相关参考]：(https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)<br />
-linux发行版本非常多，建议谷歌查找相关对应的放行说明，以免引起不必要错误，以上相关放行仅做参考
-
 
 # 客户端下载
 [V2Ray官网对于全平台客户端的总结和一览](https://www.v2ray.com/awesome/tools.html)<br />
