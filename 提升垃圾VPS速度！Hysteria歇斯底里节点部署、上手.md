@@ -132,6 +132,10 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 感谢github emptysuns大佬开发如此好用的一键脚本，适配ubuntu/debian, centos/rhel操作系统,misple/arm/x86/s390x架构
 <pre><code>bash <(curl -fsSL https://git.io/hysteria.sh)</pre></code>
 
+### 4、json客户端配置文件下载
+按下图操作，在Finalshell中找到文件，点击右边刷新，然后找到json结尾的文件下载即可
+<img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/42cd1dbb-3be2-4759-9f74-b0aedf39fbc8">
+
 
 # 管理面板
 安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息
