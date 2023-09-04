@@ -42,9 +42,17 @@
 
 ### 检测服务器状态
 Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配（新建的机器要5分钟后才能执行销毁）。<br />
+<img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/7b6c49ce-d23d-4b6f-8940-0bd9889c1109">
+
 
 机器开通后大概3-5分钟（一定要3-5分钟后再检测，刚新建的机器初始化中），复制机器的IP到以下网址进行ping检测，如可以检测通过就代表这个IP可用，否则，销毁机器，按前面新建机器的步骤重新来一次，再检测IP，直到IP可用。
 PING工具：[ping工具（检测服务器IP是否可用）](https://ping.chinaz.com/)
+<img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/a090dee6-75f7-445a-a275-b016610fbf38">
+
+### # VPS登录信息获取
+部署开机后，可以按以下操作获取VPS的IP、root密码等等，Vultr默认SSH端口是22
+<img width="1440" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f24e2b8f-d98b-4ac4-bb3e-f190b81c5b68">
+
 
 
 ### # SSH连接工具
@@ -63,8 +71,6 @@ Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手�
 注意，后续如果重新配置节点信息，端口有变动，切记重新运行以上放行端口的命令，不然会导致节点无法使用，切记
 
 参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
-
-
 
 
 # 结尾
