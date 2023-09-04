@@ -65,6 +65,8 @@
 部署完成后，点击Product-Computer就可看到成功部署的服务器
 <img width="1018" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/02570cb6-44f3-416e-920c-b3c4266f046e">
 
+如果提示不可部署机器，可能要验证邮箱地址，按下图操作，把邮箱中的验证码填入就行，就可以部署机器了
+<img width="935" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/de902dda-9a88-4f40-a543-fbdfca68516c">
 
 
 ### 检测服务器状态
