@@ -126,8 +126,8 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>apt update -y && apt install -y curl</pre></code>
 **注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl
 
-### 2、自签证书域名准备
-要想使用自签证书，需要一串解析到你VPS的域名，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，这一串就是对应你服务器的真实域名，并记录下来备用，下面部署时会用到这个域名
+### 2、证书域名准备（acme申请证书必须）
+要想使用acme证书，需要一串解析到你VPS的域名，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，这一串就是对应你服务器的真实域名，并记录下来备用，下面部署时会用到这个域名
 <pre><code>app.10.0.0.1.nip.io</pre></code>
 
 ### 3、安装Hysteria
