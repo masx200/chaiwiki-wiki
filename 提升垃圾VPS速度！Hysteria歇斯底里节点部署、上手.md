@@ -1,4 +1,4 @@
-请配合视频教程食用：
+请配合视频教程食用：https://www.youtube.com/@bigtouchai/playlists
 
 # Hysteria介绍（摘自官方开源简介）
 `Hysteria 是一个功能丰富的，专为恶劣网络环境进行优化的网络工具（双边加速），比如卫星网络、拥挤的公共 Wi-Fi、在中国连接国外服务器等。 基于修改版的 QUIC 协议。`
