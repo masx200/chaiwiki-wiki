@@ -137,6 +137,10 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
 
+# 二维码生成
+可以使用下面的二维码生成，将前面生成的快捷链接生成二维码，让客户端扫码导入配置文件实现科学上网<br />
+https://cli.im/
+
 # 常见问题排查、说明
 脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看以下链接<br />
 https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md
@@ -155,6 +159,8 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 注册美区ID并按以上方法充值后，在App Store中搜索Shadowrocket购买并下载安装<br />
 
 **安卓：**[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br /><br />
+<img width="882" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f1db56a8-7105-4a26-9784-0089842451b4">
+
 
 **苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br /><br />
 
