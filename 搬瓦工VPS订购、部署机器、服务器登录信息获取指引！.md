@@ -59,3 +59,8 @@
 对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、且有多人合租、钱包厚的朋友优先选择CN2 GIA或香港线路<br />
 如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
 搬瓦工优惠码：**BWHNCXNVXV**
+
+如何购买
+找到需要的线路、或官网链接，鼠标放上去，点击右键-在新标签页中打开，即可直达官网或指定线路购买链接
+<img width="1120" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/752a4259-8efc-4aa0-b49e-cc54e5ff245e">
+
