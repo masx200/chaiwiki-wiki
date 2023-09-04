@@ -93,5 +93,7 @@
 
 会列出已开通的VPS服务器、到期日期等等，点击右边齿轮，Open开头那个可进入VPS后台管理面板
 <img width="1217" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/843b3f38-31f3-424b-9cd1-f394b1f2af54">
+控制面板功能如下所示，一目了然
+<img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ee0222cd-0c15-4496-b2f8-0770f804b971">
 
 
