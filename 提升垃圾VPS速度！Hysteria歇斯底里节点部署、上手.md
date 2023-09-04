@@ -134,8 +134,9 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <br />感谢github emptysuns大佬开发如此好用的一键脚本，适配ubuntu/debian, centos/rhel操作系统,misple/arm/x86/s390x架构
 <pre><code>bash <(curl -fsSL https://git.io/hysteria.sh)</pre></code>
 
-### 4、json客户端配置文件下载
-按下图操作，在Finalshell中找到文件，点击右边刷新，然后找到json结尾的文件下载即可
+### 4、json客户端配置文件下载、快捷导入保存
+按下图操作，在Finalshell中找到文件，点击右边刷新，然后找到json结尾的文件下载即可；<br />
+同时，把图中绿色部分hysteria:开头的这一行复制下来，保存到一个文本中，后续会用到
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/42cd1dbb-3be2-4759-9f74-b0aedf39fbc8">
 
 
@@ -143,6 +144,9 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息，按功能输入对应数字即可操作；<br />
 如果想重新配置Hysteria，输入数字9运行，即可重新更改配置
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
+如果要重新查看Hysteria配置，输入hihy后，输入9，就可以重新查看配置
+<img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/cfbd4c2d-f8ea-4519-a4bb-be199a0cec95">
+
 
 # 二维码生成
 可以使用下面的二维码生成，将前面生成的快捷链接生成二维码，让客户端扫码导入配置文件实现科学上网<br />
