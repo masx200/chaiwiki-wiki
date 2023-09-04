@@ -1,0 +1,72 @@
+### VPS服务器购买
+自建节点需要有一台VPS服务器，如想月付，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过几十个机房可选，支持支付宝。<br />
+
+<table role="table">
+<thead>
+<tr>
+<th align="center">线路名称</th>
+<th align="center">处理器</th>
+<th align="center">内存大小</th>
+<th align="center">硬盘容量</th>
+<th align="center">带宽</th>
+<th align="center">流量</th>
+<th align="center">价格</th>
+<th align="center">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Vultr-入门</td>
+<td align="center">1 核</td>
+<td align="center">1024 MB</td>
+<td align="center">25 GB</td>
+<td align="center">1 G</td>
+<td align="center">1024GB / 月</td>
+<td align="center"><strong>$5 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
+</tr>
+<tr>
+<td align="center">Vultr-进阶</td>
+<td align="center">1 核</td>
+<td align="center">2048 MB</td>
+<td align="center">55 GB</td>
+<td align="center">1 G</td>
+<td align="center">2048GB / 月</td>
+<td align="center"><strong>$10 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
+</tr>
+</tbody>
+</table>
+对于绝大多数用户来说，入门线路已经满足，5美刀一个月，并且每月1TB流量，适合多人使用，可以和朋友合租一起用；<br />
+
+
+### 检测服务器状态
+Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配（新建的机器要5分钟后才能执行销毁）。<br />
+
+机器开通后大概3-5分钟（一定要3-5分钟后再检测，刚新建的机器初始化中），复制机器的IP到以下网址进行ping检测，如可以检测通过就代表这个IP可用，否则，销毁机器，按前面新建机器的步骤重新来一次，再检测IP，直到IP可用。
+PING工具：[ping工具（检测服务器IP是否可用）](https://ping.chinaz.com/)
+
+
+### # SSH连接工具
+任选其中一个即可<br />
+FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
+MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
+
+
+### 手动开放端口
+Vultr目前机器只默认开放SSH端口22，其它一些端口全部需要手动开放，依次复制以下命令运行就行!注意，以下操作仅适用于Ubuntu 20.04版本系统，请在Vultr部署时选择这个版本系统<br />
+首先，需要安装防火墙，复制以下命令到ssh中运行就行
+<pre><code>apt-get install firewalld -y && firewall-cmd --zone=public --add-port=22/tcp --permanent && firewall-cmd --reload</pre></code>
+
+根据你获取的节点信息，记下节点信息中的端口（port）号，将记下的端口号替换到下方命令中的『端口』两字中，即是完整命令，运行即可、当然，x-ui面板的端口首先要开放
+<pre><code>firewall-cmd --zone=public --add-port=端口/tcp --permanent && firewall-cmd --reload</pre></code>
+注意，后续如果重新配置节点信息，端口有变动，切记重新运行以上放行端口的命令，不然会导致节点无法使用，切记
+
+参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
+
+
+
+
+# 结尾
+一请合理使用科学上网，遵守当地法律法规<br />
+
