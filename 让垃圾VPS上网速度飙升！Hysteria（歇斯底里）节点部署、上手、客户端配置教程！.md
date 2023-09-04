@@ -8,7 +8,8 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 
 # VPS服务器购买
 自建节点的前提是需要有一台VPS服务器，如果已有购买到VPS服务器，此步可忽略，直接进入下一步的部署环节，如无，不知道哪家VPS好，可以选择以下推荐~<br />
-1、推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。
+1、推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。<br />
+[搬瓦工VPS订购、部署机器、服务器登录信息获取指引！](https://github.com/xiaochaib/chaiwiki/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5VPS%E8%AE%A2%E8%B4%AD%E3%80%81%E9%83%A8%E7%BD%B2%E6%9C%BA%E5%99%A8%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%8C%87%E5%BC%95%EF%BC%81)
 <table role="table">
 <thead>
 <tr>
