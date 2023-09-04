@@ -1,4 +1,4 @@
-请配合视频教程食用：https://www.youtube.com/@bigtouchai/playlists
+请配合视频教程食用：https://www.youtube.com/@bigtouchai/playlists 视频有字幕，请打开字幕观看
 
 # Hysteria介绍（摘自官方开源简介）
 `Hysteria 是一个功能丰富的，专为恶劣网络环境进行优化的网络工具（双边加速），比如卫星网络、拥挤的公共 Wi-Fi、在中国连接国外服务器等。 基于修改版的 QUIC 协议。`
@@ -6,13 +6,9 @@
 Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它很好的解决了在搭建富强魔法服务器时最大的痛点——线路拉跨。<br />
 **用人话讲就是：提升垃圾VPS的上网速度、提升上网体验！**
 
-请配合视频教程食用：https://youtu.be/k2Tz51h0lQg  视频有字幕，请打开字幕观看
-# 前言
-借助x-ui面板可以部署V2Ray、Xray、SS、Trojan、reality等协议的节点，并且有后台面板方便查看和设置节点信息，对小白非常友好，请结合以下步骤进行操作。
-
-
 # VPS服务器购买
-自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。
+自建节点的前提是需要有一台VPS服务器，如果已有购买到VPS服务器，此步可忽略，直接进入下一步的部署环节，如无，不知道哪家VPS好，可以选择以下推荐~<br />
+推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。
 <table role="table">
 <thead>
 <tr>
@@ -73,6 +69,45 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
 搬瓦工优惠码：**BWHNCXNVXV**
 
+或者Vultr家的VPS服务器，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过几十个机房可选，支持支付宝。<br />
+
+<table role="table">
+<thead>
+<tr>
+<th align="center">线路名称</th>
+<th align="center">处理器</th>
+<th align="center">内存大小</th>
+<th align="center">硬盘容量</th>
+<th align="center">带宽</th>
+<th align="center">流量</th>
+<th align="center">价格</th>
+<th align="center">链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Vultr-入门</td>
+<td align="center">1 核</td>
+<td align="center">1024 MB</td>
+<td align="center">25 GB</td>
+<td align="center">1 G</td>
+<td align="center">1024GB / 月</td>
+<td align="center"><strong>$5 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
+</tr>
+<tr>
+<td align="center">Vultr-进阶</td>
+<td align="center">1 核</td>
+<td align="center">2048 MB</td>
+<td align="center">55 GB</td>
+<td align="center">1 G</td>
+<td align="center">2048GB / 月</td>
+<td align="center"><strong>$10 / 月</strong></td>
+<td align="center"><a href="https://www.vultr.com/?ref=9467366" rel="nofollow">购买</a></td>
+</tr>
+</tbody>
+</table>
+对于绝大多数用户来说，入门线路已经满足，5美刀一个月，并且每月1TB流量，适合多人使用，可以和朋友合租一起用；<br />
 
 如果真的不想自建，想用机场，那么我推荐你使用搬瓦工官方JMS机场，非常稳定、不跑路！<br />
 [搬瓦工JMS机场使用图文指引！点我~](https://github.com/bigtouchai/chaiwiki/wiki/%E6%9C%80%E7%A8%B3%E6%9C%BA%E5%9C%BA%EF%BC%9A%E6%90%AC%E7%93%A6%E5%B7%A5Just-My-Socks-%E6%9C%BA%E5%9C%BA%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E3%80%81%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF)
