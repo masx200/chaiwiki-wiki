@@ -99,8 +99,16 @@
 <img width="777" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/72d91caa-6de5-4eee-8e49-fcd046ccaee3">
 如果root密码忘记了或者不知道，请按下图操作生成新的root密码
 <img width="1079" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/4f3f6fa1-d2b6-4af5-9621-c6fb2f35ed79">
-通过以上步骤，你就会重新系统、开关机、获取IP地址、SSH端口号、root登录密码了，有了这些信息，就可以登录VPS进行管理和部署服务了
-<img width="1079" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ebeb06b1-77c2-4e4b-a896-35091dcc679c">
+通过以上步骤，你就会重新系统、开关机、获取IP地址、SSH端口号、root登录密码了，有了这些信息，就可以登录VPS进行管理和部署服务了、推荐使用以下SSH客户端连接VPS
 
+### # SSH连接工具
+任选其中一个即可<br />
+FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
+MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)<br />
+
+连接后，可以参考主页中的科学上网教程搭建属于自己的节点了：https://www.youtube.com/@bigtouchai/videos
+
+# 结尾
+一请合理使用科学上网，遵守当地法律法规<br />
 
 
