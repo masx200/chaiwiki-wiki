@@ -95,5 +95,12 @@
 <img width="1217" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/843b3f38-31f3-424b-9cd1-f394b1f2af54">
 控制面板功能如下所示，一目了然
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ee0222cd-0c15-4496-b2f8-0770f804b971">
+点击start开机后，会有SSH端口出现，如果要重新系统，按上图翻译提示安装
+<img width="777" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/72d91caa-6de5-4eee-8e49-fcd046ccaee3">
+如果root密码忘记了或者不知道，请按下图操作生成新的root密码
+<img width="1079" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/4f3f6fa1-d2b6-4af5-9621-c6fb2f35ed79">
+通过以上步骤，你就会重新系统、开关机、获取IP地址、SSH端口号、root登录密码了，有了这些信息，就可以登录VPS进行管理和部署服务了
+<img width="1079" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ebeb06b1-77c2-4e4b-a896-35091dcc679c">
+
 
 
