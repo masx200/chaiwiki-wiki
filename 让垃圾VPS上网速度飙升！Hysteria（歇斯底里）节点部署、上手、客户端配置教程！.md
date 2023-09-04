@@ -172,7 +172,7 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 美区账号如何充值：https://zhuanlan.zhihu.com/p/636121931<br />
 注册美区ID并按以上方法充值后，在App Store中搜索Shadowrocket购买并下载安装<br />
 
-**安卓：**[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) 注意，下方的Hysteria 插件也要一并下载并安装<br /><br />
+**安卓：**[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) 注意，下方的Hysteria 插件也要一并下载并安装，视频中漏说了<br /><br />
 <img width="882" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f1db56a8-7105-4a26-9784-0089842451b4">
 安卓还要下载这个插件：[Hysteria 插件](https://github.com/MatsuriDayo/plugins/releases)
 <img width="1101" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/333f3c18-6f44-4495-af94-9a38d3a606fd">
