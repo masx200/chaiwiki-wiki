@@ -1,4 +1,4 @@
-# VPS服务器购买
+# 搬瓦工VPS服务器线路介绍
 自建节点的前提是需要有一台VPS服务器，推荐使用[搬瓦工（Bandwagon Host）](https://bwh88.net/aff.php?aff=71506)，非常稳定，不满意支持退款，不用担心跑路。
 <table role="table">
 <thead>
@@ -60,7 +60,7 @@
 如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
 搬瓦工优惠码：**BWHNCXNVXV**
 
-如何购买
+# 搬瓦工VPS如何购买
 找到需要的线路、或官网链接，鼠标放上去，点击右键-在新标签页中打开，即可直达官网或指定线路购买链接
 <img width="1120" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/752a4259-8efc-4aa0-b49e-cc54e5ff245e">
 
