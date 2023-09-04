@@ -154,7 +154,7 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 美区账号如何充值：https://zhuanlan.zhihu.com/p/636121931<br />
 注册美区ID并按以上方法充值后，在App Store中搜索Shadowrocket购买并下载安装<br />
 
-**安卓：**[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br /><br />
+**安卓：**[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br /><br />
 
 **苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br /><br />
 
