@@ -130,7 +130,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 ### 3、安装Hysteria
 虽然脚本默认会放开所需端口，但有些VPS服务商可能要手动开启相关端口，如80/443等必须放开才能正常安装，此处默认你已放开所需端口，如装完不能用，请检查端口是否成功放行<br />
-[放行端口参考](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)
+[放行端口参考教程](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)<br />
 感谢github emptysuns大佬开发如此好用的一键脚本，适配ubuntu/debian, centos/rhel操作系统,misple/arm/x86/s390x架构
 <pre><code>bash <(curl -fsSL https://git.io/hysteria.sh)</pre></code>
 
