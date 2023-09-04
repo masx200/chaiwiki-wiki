@@ -140,7 +140,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 
 # 管理面板
-安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息；如果想重新配置Hysteria，输入数字9运行，即可重新更改配置
+安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息；<br />如果想重新配置Hysteria，输入数字9运行，即可重新更改配置
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
 
 # 二维码生成
