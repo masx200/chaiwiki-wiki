@@ -87,7 +87,9 @@ PING工具：[ping工具（检测服务器IP是否可用）](https://ping.chinaz
 ### # SSH连接工具
 任选其中一个即可<br />
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
-MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
+MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)<br />
+
+连接后，可以参考主页中的科学上网教程搭建属于自己的节点了：https://www.youtube.com/@bigtouchai/videos
 
 
 ### 手动开放端口
