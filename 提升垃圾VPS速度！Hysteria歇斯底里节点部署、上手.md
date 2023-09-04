@@ -129,7 +129,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>app.10.0.0.1.nip.io</pre></code>
 
 ### 3、安装Hysteria
-感谢github FranzKafkaYu大佬开发如此好用的一键脚本
+感谢github emptysuns大佬开发如此好用的一键脚本，适配ubuntu/debian, centos/rhel操作系统,misple/arm/x86/s390x架构
 <pre><code>bash <(curl -fsSL https://git.io/hysteria.sh)</pre></code>
 
 
