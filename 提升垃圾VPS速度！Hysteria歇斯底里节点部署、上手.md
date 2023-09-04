@@ -138,8 +138,8 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
 
 # 常见问题排查、说明
-脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看以下链接
-<img width="1016" alt="image" src="https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md">
+脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看以下链接<br />
+https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md
 
 # 客户端下载
 Hysteria各平台客户端推荐列表，请访问：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md<br />
