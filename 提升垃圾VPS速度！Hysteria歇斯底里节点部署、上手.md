@@ -168,8 +168,6 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 <img width="882" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f1db56a8-7105-4a26-9784-0089842451b4">
 
 
-**苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br /><br />
-
 # 结尾
 本次一键脚本开源界面：https://github.com/emptysuns/Hi_Hysteria<br />
 一**请合理使用科学上网**<br />
