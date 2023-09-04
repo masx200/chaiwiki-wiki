@@ -39,6 +39,14 @@
 </table>
 对于绝大多数用户来说，入门线路已经满足，5美刀一个月，并且每月1TB流量，适合多人使用，可以和朋友合租一起用；<br />
 
+### Vultr注册、充值、部署机器
+新用户，请点击上方蓝色字体，鼠标右键-新标签中打开，进入Vultr官网进入注册
+<img width="1118" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/02508f07-2659-46e0-98b8-1875705a9f30">
+进入官网后，可以用浏览器翻译，或者按下方提示，输入邮箱、密码注册账号，注册完成后，点击右上角头像-Log in登录
+<img width="1438" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/807cd43a-a933-4d50-8ddf-cb041b447ece">
+登录后，点击Account-Make a payment，选择Alipay（支付宝），最低充值10美金（约60多块），按提示扫码充值；成功后，右上角会显示余额
+<img width="1438" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/5113b485-d18c-4524-8e27-4c4965f2d601">
+
 
 ### 检测服务器状态
 Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配（新建的机器要5分钟后才能执行销毁）。<br />
