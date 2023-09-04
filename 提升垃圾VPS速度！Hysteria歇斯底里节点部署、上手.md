@@ -148,8 +148,9 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 https://cli.im/
 
 # 常见问题排查、说明
-脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看以下链接<br />
-https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md
+脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看官方开源界面的补充或更新<br />
+脚本开源界面：https://github.com/emptysuns/hysteria
+问题说明界面：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md
 
 # Hysteria客户端下载
 Hysteria各平台客户端推荐列表，请访问：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md<br />
