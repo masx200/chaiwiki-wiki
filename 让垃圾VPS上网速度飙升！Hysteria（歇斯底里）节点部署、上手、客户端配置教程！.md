@@ -146,7 +146,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息，按功能输入对应数字即可操作；<br />
 如果想重新配置Hysteria，输入数字9运行，即可重新更改配置
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
-如果要重新查看Hysteria配置，输入hihy后，输入9，就可以重新查看配置
+如果要重新查看Hysteria配置，输入hihy后，输入8，就可以重新查看配置
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/cfbd4c2d-f8ea-4519-a4bb-be199a0cec95">
 
 
