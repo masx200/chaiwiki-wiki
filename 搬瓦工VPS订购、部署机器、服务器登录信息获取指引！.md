@@ -83,3 +83,15 @@
 推荐支付宝，会跳转到扫码支付界面，使用支付宝扫一扫付款
 <img width="959" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/b08ea0ac-cb23-40d1-b812-8c9ef82d1a50">
 
+
+搬瓦工VPS登录信息获取
+支付完成后，可以按前面链接重新进入搬瓦工官网，点击右上角的Client Area
+<img width="1283" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/8d0c87da-02b3-4ba5-99fc-5a07642d73b3">
+
+找到服务-我的服务
+<img width="1097" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/26e2befd-5297-4c44-b2f4-fa2f8b42e843">
+
+会列出已开通的VPS服务器、到期日期等等，点击右边齿轮，Open开头那个可进入VPS后台管理面板
+<img width="1217" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/843b3f38-31f3-424b-9cd1-f394b1f2af54">
+
+
