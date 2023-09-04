@@ -174,6 +174,10 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 
 **安卓：**[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br /><br />
 <img width="882" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f1db56a8-7105-4a26-9784-0089842451b4">
+安卓还要下载这个插件：[Hysteria 插件](https://github.com/MatsuriDayo/plugins/releases)
+<img width="1101" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/333f3c18-6f44-4495-af94-9a38d3a606fd">
+安卓手机，将NekoBox和Hysteria plugins两个都下载，导入到安卓手机，都安装即可
+
 
 **OpenWRT软路由：**[参考这个链接](https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md#4-openwrt-passwall
 )<br /><br />
