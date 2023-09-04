@@ -118,40 +118,24 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 FinalShell(推荐):[FinalShell下载](http://www.hostbuf.com/t/988.html)<br />
 MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
-# 正式安装、搭建x-ui面板搭建节点
+# 正式部署Hysteria
 
 ### 1、必要更新操作(Debian/Ubuntu)
-<pre><code>apt update -y && apt install -y curl socat wget</pre></code>
-**注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl socat wget
+<pre><code>apt update -y && apt install -y curl</pre></code>
+**注意：**如果是centos系统，则分别运行yum update -y和yum install -y curl
 
-### 2、安装x-ui
-感谢github FranzKafkaYu大佬开发如此好用的一键脚本
-<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)</pre></code>
-
-### 3、证书申请（开TLS协议必备）
-要想使用tls模式，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，这一串就是对应你服务器的真实域名，并记录下来备用，下面申请证书时会用到这个域名
+### 2、自签证书域名准备
+要想使用自签证书，需要一串解析到你VPS的域名，请根据以下代码替换，将其中的10.0.0.1替换成你VPS服务器的真实IP地址，这一串就是对应你服务器的真实域名，并记录下来备用，下面部署时会用到这个域名
 <pre><code>app.10.0.0.1.nip.io</pre></code>
 
-安装Acme
-<pre><code>curl https://get.acme.sh | sh</pre></code>
-“你的邮箱”改成你的邮箱地址
-<pre><code>~/.acme.sh/acme.sh --register-account -m 你的邮箱</pre></code>
-“你的域名”改成你前面解析好的域名
-<pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
+### 3、安装Hysteria
+感谢github FranzKafkaYu大佬开发如此好用的一键脚本
+<pre><code>bash <(curl -fsSL https://git.io/hysteria.sh)</pre></code>
+
 
 # 管理面板
-安装完成后，输入 x-ui 就能看到管理面板，如下图片所示，可以重新查看面板信息
-<img width="770" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/879a01cc-f20b-4efb-bc35-5710bbddcf7d">
-
-
-# BBR加速
-内置bbr加速，输入x-ui显示菜单，输入数字15即可自动一键安装bbr加速，提升科学上网速度。<br />
-<img width="774" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/86949887-8441-4641-8dae-59efaf32f358">
-
-
-或者使用以下脚本安装bbr：
-四合一 BBR Plus / 原版BBR / 魔改BBR一键脚本（Centos 7, Debian 8/9, Ubuntu 16/18 测试通过）<br />
-<pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre></code>
+安装完成后，输入 hihy 就能看到管理面板，如下图片所示，可以重新查看面板信息
+<img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/34f667da-3ede-4f6f-8c77-d00a90f53659">
 
 
 # 客户端下载
