@@ -139,7 +139,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 
 # 客户端下载
-脚本开源界面，大佬也有对Hysteria各平台客户端有总结，请访问：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md<br />
+Hysteria各平台客户端推荐列表，请访问：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md<br />
 Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下：<br />
 **Windows：**[v2rayN下载](https://github.com/emptysuns/Hi_Hysteria/releases)<br />
 <img width="827" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/5cd1fffb-ada9-46a3-ab3b-60f003fda1e9">
