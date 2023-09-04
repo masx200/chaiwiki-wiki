@@ -151,7 +151,7 @@ https://cli.im/
 脚本作者有针对使用过程中出现的问题有说明和解释，如果遇到问题，可查看以下链接<br />
 https://github.com/emptysuns/Hi_Hysteria/blob/main/md/issues.md
 
-# 客户端下载
+# Hysteria客户端下载
 Hysteria各平台客户端推荐列表，请访问：https://github.com/emptysuns/Hi_Hysteria/blob/main/md/client.md<br />
 Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下：<br />
 **Windows：**[v2rayN下载](https://github.com/emptysuns/Hi_Hysteria/releases)<br />
