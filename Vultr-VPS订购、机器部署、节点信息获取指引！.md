@@ -46,6 +46,25 @@
 <img width="1438" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/807cd43a-a933-4d50-8ddf-cb041b447ece">
 登录后，点击Account-Make a payment，选择Alipay（支付宝），最低充值10美金（约60多块），按提示扫码充值；成功后，右上角会显示余额
 <img width="1438" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/5113b485-d18c-4524-8e27-4c4965f2d601">
+充值后就可以进行服务器部署，点击Product-Computer-Deploy New Server进行部署VPS界面
+<img width="1439" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/d5c0a087-a6f6-463d-b415-9145a6679db2">
+推荐常规5美金/月的机器，按下图选择：Cloud Compute-Regular Performance
+<img width="1433" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/648de14e-a2ae-4439-92bf-f9374d5287ef">
+然后往下拉，选择要把机器部署在哪个国家，一般来说美国地区的速度好，可选美国
+<img width="1154" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/36fbbeee-86de-4ee0-91bd-c27c303e20a8">
+
+往下拉，选择安装什么系统，如果是用来上网，推荐Ubutu 20.04及以上版本系统，对各种脚本兼容性好
+<img width="1143" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ec732b86-57bc-48d5-a3b8-7442ae7109d0">
+按情况选择套餐，入门是5美金/月，每个月1T流量，足够用了
+<img width="1207" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/d29dc3a0-d8a3-4b22-a9f5-21abe1868fbf">
+往下拉，关闭自动备份；按需设置是否要开启IPV6
+<img width="1241" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/0a15059b-0e4c-4d9f-bf6a-ba1361c8de73">
+确认价格，正确后点击Deploy Now部署
+<img width="1226" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/fb920418-84f6-46d5-b533-280b491ab1ab">
+
+部署完成后，点击Product-Computer就可看到成功部署的服务器
+<img width="1018" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/02570cb6-44f3-416e-920c-b3c4266f046e">
+
 
 
 ### 检测服务器状态
