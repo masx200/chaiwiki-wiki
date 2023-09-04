@@ -71,6 +71,7 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 ----------------------------------------------------------------------<br />
 
 2、或者Vultr家的VPS服务器，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过几十个机房可选，支持支付宝。<br />
+[Vultr VPS订购、部署机器、服务器登录信息获取指引！](https://github.com/xiaochaib/chaiwiki/wiki/Vultr-VPS%E8%AE%A2%E8%B4%AD%E3%80%81%E9%83%A8%E7%BD%B2%E6%9C%BA%E5%99%A8%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%8C%87%E5%BC%95%EF%BC%81)
 
 <table role="table">
 <thead>
