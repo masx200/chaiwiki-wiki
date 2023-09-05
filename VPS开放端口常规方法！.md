@@ -36,5 +36,6 @@
 5.再次查看一下端口是否已开放，即运行第一条命令，有显示你要的端口即代表已放开
 <img width="568" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/84ddb3d2-43fb-4fb4-9688-6312bbb3622b">
 
-## 其它系统
+## 其它系统放行端口万能公式
 确认你的系统版本，如果是ubuntu 24，并且以上命令不可用，那么你可以谷歌搜索  ubuntu 24 放行端口  等关键字，按查到的资料进行尝试操作
+<img width="1150" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/36a1fed8-5ba2-41d8-9277-3fbf7e9b68c8">
