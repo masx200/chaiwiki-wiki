@@ -131,7 +131,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>app.10.0.0.1.nip.io</pre></code>
 
 ### 3、安装Hysteria
-虽然脚本默认会放开所需端口，但有些VPS服务商可能要手动开启相关端口，如80/443等必须放开才能正常安装，此处默认你已放开所需端口，如装完不能用，请检查端口是否成功放行,如果使用acme证书，如未放开80/443端口，会提示以下错误，如有此提示，请参考下方放行端口教程，或谷歌搜索你系统加+端口放行 关键字查询如何放行端口<br />
+虽然脚本默认会放开所需端口，但有些VPS服务商可能要手动开启相关端口，如80/443等必须放开才能正常安装，此处默认你已放开所需端口，如装完不能用，请检查端口是否成功放行,如果使用acme证书，如未放开80/443端口，安装时会提示以下错误，如有此提示，请参考下方放行端口教程，或谷歌搜索你系统加+端口放行 关键字查询如何放行端口<br />
 <img width="622" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/5cdb63f8-361f-4e40-b831-11feaa860ba2">
 
 [放行端口参考教程](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)
