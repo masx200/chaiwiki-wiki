@@ -18,5 +18,7 @@ Welcome to the chaiwiki wiki!
 # 其它索引
 [VPS开放端口教程](https://github.com/xiaochaib/chaiwiki/wiki/VPS%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95%EF%BC%81)<br />
 
+[搬瓦工VPS订购、部署机器、服务器登录信息获取指引！](https://github.com/xiaochaib/chaiwiki/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5VPS%E8%AE%A2%E8%B4%AD%E3%80%81%E9%83%A8%E7%BD%B2%E6%9C%BA%E5%99%A8%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%8C%87%E5%BC%95%EF%BC%81)<br />
 
+[Vultr VPS订购、部署机器、服务器登录信息获取指引！](https://github.com/xiaochaib/chaiwiki/wiki/Vultr-VPS%E8%AE%A2%E8%B4%AD%E3%80%81%E9%83%A8%E7%BD%B2%E6%9C%BA%E5%99%A8%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%8C%87%E5%BC%95%EF%BC%81)
 
