@@ -115,6 +115,9 @@ IOS：首先苹果应用商店使用除国区外的账号登录，搜索Shadowro
 <img width="754" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/e41a840c-b51d-4d87-acf8-3ceca99e7621"><br />
 
 ## 软路由使用JMS节点方法
+以软路由插件SSR Plus为例，按下图添加订阅地址，点击更新，然后选择要用的节点，打开就行
+<img width="1192" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/1463c1e9-1c5c-458e-8b8e-60fc09a7103d">
+
 
 ## 补充
 请合理使用科学上网哦~<br />
