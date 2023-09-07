@@ -115,3 +115,7 @@ IOS：首先苹果应用商店使用除国区外的账号登录，搜索Shadowro
 <img width="754" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/e41a840c-b51d-4d87-acf8-3ceca99e7621"><br />
 
 ## 软路由使用JMS节点方法
+
+## 补充
+请合理使用科学上网哦~<br />
+如初次使用感觉不合适，可在节点信息列表中申请退款，找到Refund字眼申请~
