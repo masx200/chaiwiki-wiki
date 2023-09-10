@@ -188,5 +188,5 @@ Windows需要使用和内核一起打包的V2RayN客户端，下载链接如下�
 
 # 结尾
 本次一键脚本开源界面：https://github.com/emptysuns/Hi_Hysteria<br />
-一**请合理使用科学上网**<br />
+一**请合理使用科学上网，遵守所在地规定**<br />
 
