@@ -117,7 +117,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 **苹果MAC OS**：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
 
 # 结尾
-一**请合理使用科学上网**<br />
+一**请合理使用科学上网，遵守所在地规定**<br />
 搬瓦工30天内新账户支持退款，请按以下操作，refunds，按提示交工单，不懂英文的请打开浏览器翻译<br />
 <img width="687" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/3f77af08-23ed-4a7d-809e-651bfa5537d9">
 
