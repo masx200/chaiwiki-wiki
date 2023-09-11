@@ -100,7 +100,7 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
 
 # 结尾
-一请合理使用科学上网<br />
+一郑重声明：请合理使用科学上网于学习知识、外贸或科研工作方面，遵守相关规定<br />
 搬瓦工30天内新账户支持退款，请按以下操作，refunds，按提示交工单，不懂英文的请打开浏览器翻译
 ![image](https://github.com/xiaochaib/chaiwiki/assets/134616948/2957ec12-85c0-4194-93f9-e06fe5e5bf88)
 
