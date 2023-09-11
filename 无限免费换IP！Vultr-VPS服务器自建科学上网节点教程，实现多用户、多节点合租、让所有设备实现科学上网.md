@@ -106,5 +106,5 @@ IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推�
 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)<br />
 
 # 结尾
-一请合理使用科学上网，遵守当地法律法规<br />
+一郑重声明：请合理使用科学上网于学习知识、外贸或科研工作方面，遵守相关规定<br />
 
