@@ -91,13 +91,13 @@
 找到服务-我的服务
 <img width="1097" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/26e2befd-5297-4c44-b2f4-fa2f8b42e843">
 
-会列出已开通的VPS服务器、到期日期等等，点击右边齿轮，Open开头那个可进入VPS后台管理面板
+会列出已开通的VPS服务器、到期日期等等，点击右边齿轮，Open开头那个可进入VPS后台管理面板<br />
 <img width="1217" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/843b3f38-31f3-424b-9cd1-f394b1f2af54">
-控制面板功能如下所示，一目了然
+控制面板功能如下所示，一目了然<br />
 <img width="1016" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/ee0222cd-0c15-4496-b2f8-0770f804b971">
-点击start开机后，会有SSH端口出现，如果要重新系统，按上图翻译提示安装
+点击start开机后，会有SSH端口出现，如果要重新系统，按上图翻译提示安装<br />
 <img width="777" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/72d91caa-6de5-4eee-8e49-fcd046ccaee3">
-如果root密码忘记了或者不知道，请按下图操作生成新的root密码
+如果root密码忘记了或者不知道，请按下图操作生成新的root密码<br />
 <img width="1079" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/4f3f6fa1-d2b6-4af5-9621-c6fb2f35ed79">
 通过以上步骤，你就会重新系统、开关机、获取IP地址、SSH端口号、root登录密码了，有了这些信息，就可以登录VPS进行管理和部署服务了、推荐使用以下SSH客户端连接VPS
 
