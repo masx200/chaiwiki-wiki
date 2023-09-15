@@ -96,8 +96,12 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 <pre><code>~/.acme.sh/acme.sh --issue -d 你的域名 --standalone</pre></code>
 
 # 管理面板
-安装完成后，输入 x-ui 就能看到管理面板，如下图片所示，可以重新查看面板信息
-<img width="770" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/879a01cc-f20b-4efb-bc35-5710bbddcf7d">
+安装完成后，输入 x-ui 就能看到管理面板，如下图片所示，可以重新查看面板信息<br />
+<img width="770" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/879a01cc-f20b-4efb-bc35-5710bbddcf7d"><br />
+XUI面板最终后台访问地址如下，输入x-ui，输入7查看面板参数来确定最终路径：<br />
+VPS的IP:监听端口/根路径/  就是面板最终访问路径
+<img width="650" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/29683dff-80de-472d-a625-3768d9d2ad78">
+
 
 
 # BBR加速
