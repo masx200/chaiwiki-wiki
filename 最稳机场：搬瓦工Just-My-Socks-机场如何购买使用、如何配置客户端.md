@@ -78,7 +78,7 @@ V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases
 
 IOS：首先苹果应用商店使用除国区外的账号登录，搜索Shadowrocket，需要付费安装，2.99刀，约20块人民币左右。可以在支付宝中切换到美国，搜索礼品卡并充值到你美区账户购买小火箭
 可以参考以下两篇文章操作非常简单：<br />
-如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/635054054<br />
+如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/30761252365<br />
 美区账号如何充值：https://zhuanlan.zhihu.com/p/636121931<br />
 
 安卓：[V2RayNG](https://github.com/2dust/v2rayNG/releases)<br />
