@@ -26,14 +26,14 @@ Xray-core 团队推出了 Vision 和 Reality 两种新颖的技术方案,可以�
 </thead>
 <tbody>
 <tr>
-<td align="center">CN2</td>
-<td align="center">1 核</td>
+<td align="center">普通</td>
+<td align="center">2 核</td>
 <td align="center">1024 MB</td>
 <td align="center">20 GB</td>
 <td align="center">1 G</td>
-<td align="center">1000GB / 月</td>
+<td align="center">1 TB / 月</td>
 <td align="center"><strong>$49.99 / 年</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=57" rel="nofollow">购买</a></td>
+<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=44" rel="nofollow">购买</a></td>
 </tr>
 <tr>
 <td align="center">CN2 GIA</td>
@@ -59,7 +59,7 @@ Xray-core 团队推出了 Vision 和 Reality 两种新颖的技术方案,可以�
 </table>
 对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、钱包厚的朋友可以选择CN2 GIA或香港线路<br />
 如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
-搬瓦工优惠码：**BWHNCXNVXV**
+搬瓦工优惠码：**BWHCGLUKKB**
 
 
 如果真的不想自建，想用机场，那么我推荐你使用搬瓦工官方JMS机场，非常稳定、不跑路！<br />
