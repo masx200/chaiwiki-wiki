@@ -35,16 +35,6 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 <td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=44" rel="nofollow">购买</a></td>
 </tr>
 <tr>
-<td align="center">CN2</td>
-<td align="center">1 核</td>
-<td align="center">1024 MB</td>
-<td align="center">20 GB</td>
-<td align="center">1 G</td>
-<td align="center">1000GB / 月</td>
-<td align="center"><strong>$49.99 / 年</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=57" rel="nofollow">购买</a></td>
-</tr>
-<tr>
 <td align="center">CN2 GIA</td>
 <td align="center">2 核</td>
 <td align="center">1 GB</td>
@@ -68,7 +58,7 @@ Hysteria这是一款由go编写的非常优秀的“轻量”代理程序，它�
 </table>
 对于绝大多数用户来说，CN2线路已经满足；非常追求超极致速度、且有多人合租、钱包厚的朋友优先选择CN2 GIA或香港线路<br />
 如果跳转到购买链接提示：Out of Stock说明没库存了，香港机一般很紧俏<br />
-搬瓦工优惠码：**BWHNCXNVXV**<br />
+搬瓦工优惠码：**BWHCGLUKKB**<br />
 ----------------------------------------------------------------------<br />
 
 2、或者Vultr家的VPS服务器，可使用Vultr家的VPS服务器，[Vultr官网](https://www.vultr.com/?ref=9467366)，2014年成立，性价比高，目前月付5刀/月，可随时免费更换IP、不用担心IP不够用，机器、网络运行稳定性佳，并且提供超过几十个机房可选，支持支付宝。<br />
