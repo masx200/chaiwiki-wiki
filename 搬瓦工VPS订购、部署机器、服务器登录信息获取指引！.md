@@ -25,15 +25,6 @@
 <td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=44" rel="nofollow">购买</a></td>
 </tr>
 <tr>
-<td align="center">CN2</td>
-<td align="center">1 核</td>
-<td align="center">1024 MB</td>
-<td align="center">20 GB</td>
-<td align="center">1 G</td>
-<td align="center">1000GB / 月</td>
-<td align="center"><strong>$49.99 / 年</strong></td>
-<td align="center"><a href="https://bwh88.net/aff.php?aff=71506&pid=57" rel="nofollow">购买</a></td>
-</tr>
 <tr>
 <td align="center">CN2 GIA</td>
 <td align="center">2 核</td>
