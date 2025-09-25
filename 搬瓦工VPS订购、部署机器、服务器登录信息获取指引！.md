@@ -60,7 +60,7 @@
 <img width="1145" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/1b6e02c5-cfd9-42ca-8088-3620195fc09a">
 
 
-来到结账界面，粘贴优惠码：BWHNCXNVXV 在框中，点击验证，会有5%左右的优惠，点击Check out进入结账页面
+来到结账界面，粘贴优惠码：BWHCGLUKKB 在框中，点击验证，会有5%左右的优惠，点击Check out进入结账页面
 <img width="1216" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/f26f2ad3-d2ef-4402-9b22-cbc231f9cfde">
 
 <img width="978" alt="image" src="https://github.com/xiaochaib/chaiwiki/assets/134616948/69116f54-ce03-4a40-8d3a-5ceee742f6e2">
