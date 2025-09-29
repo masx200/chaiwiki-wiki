@@ -115,9 +115,10 @@ amd.com
 
 # 各平台客户端下载
 [V2Ray官网对于全平台客户端的总结和一览](https://www.v2ray.com/awesome/tools.html)<br />
-[解压软件winrar](https://www.winrar.com.cn/)<br />
+
 
 **Windows、MacBook：**[v2rayN下载](https://github.com/2dust/v2rayN/releases/tag/7.14.12)<br />
+**[解压软件winrar](https://www.winrar.com.cn/)<br />
 
 **MacBook打开软件提示损坏解决方法：**[MacBook打开软件提示损坏解决方法](https://zhuanlan.zhihu.com/p/135948430)<br />
 **MacBook打开软件提示无法验证软件安全性：**[MacBook打开软件提示无法验证安全性解决方法](https://zhuanlan.zhihu.com/p/489710134)<br />
