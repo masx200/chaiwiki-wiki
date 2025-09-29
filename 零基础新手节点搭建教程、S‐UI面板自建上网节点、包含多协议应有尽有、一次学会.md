@@ -115,6 +115,7 @@ amd.com
 
 # 各平台客户端下载
 [V2Ray官网对于全平台客户端的总结和一览](https://www.v2ray.com/awesome/tools.html)<br />
+[解压软件winrar](https://www.winrar.com.cn/)<br />
 
 **Windows、MacBook：**[v2rayN下载](https://github.com/2dust/v2rayN/releases/tag/7.14.12)<br />
 
