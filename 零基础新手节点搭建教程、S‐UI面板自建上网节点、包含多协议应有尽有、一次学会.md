@@ -76,6 +76,7 @@ MobaXterm:[MobaXterm官网](https://mobaxterm.mobatek.net/)
 
 ### 3、挑选SNI伪装域名（任选一个）
 <pre><code>
+如发现节点不能使用，以下域名请随机修改，直到正常使用即可
 aws.com
 www.bing.com
 snap.licdn.com
